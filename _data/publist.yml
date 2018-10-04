@@ -1,0 +1,68 @@
+- title: "Minimap2: pairwise alignment for nucleotide sequences"
+  authors: Li H
+  year: 2018
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29750242
+  display:  <i>Bioinformatics</i>, <b>34</b>:3094-3100
+  type: 1
+
+- title: "A synthetic-diploid benchmark for accurate variant-calling evaluation"
+  authors: Li H, Bloom JM, Farjoun Y, Fleharty M, Gauthier L, Neale B, MacArthur D
+  year: 2018
+  url: https://www.ncbi.nlm.nih.gov/pubmed/30013044
+  display: <i>Nat Methods</i>, <b>15</b>:595-597
+  type: 1
+
+- title: "Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences"
+  authors: Li H
+  year: 2016
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27153593
+  display: <i>Bioinformatics</i>, <b>32</b>:2103-2110
+  type: 1
+
+- title: "The Sequence Alignment/Map format and SAMtools"
+  authors: Li H*, Handsaker B*, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R.
+  year: 2009
+  url: https://www.ncbi.nlm.nih.gov/pubmed/19505943
+  display: <i>Bioinformatics</i>, <b>25</b>:2078-2079
+  type: 1
+
+- title: "Three-dimensional genome structures of single diploid human cells"
+  authors: Tan L*, Xing D*, Chang CH, Li H, Xie XS
+  year: 2018
+  url: https://www.ncbi.nlm.nih.gov/pubmed/30166492
+  display: <i>Science</i>, <b>361</b>:924-928
+  type: 2
+
+- title: "Single-cell whole-genome analyses by Linear Amplification via Transposon Insertion (LIANTI)"
+  authors: Chen C*, Xing D*, Tan L*, Li H*, Zhou G, Huang L, Xie XS
+  year: 2017
+  url: https://www.ncbi.nlm.nih.gov/pubmed/28408603
+  display: <i>Science</i>, <b>356</b>:189-194
+  type: 2
+
+- title: "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations"
+  authors: Mallick S, Li H, Lipson M, Mathieson I, Gymrek M, Racimo F, <i>et al.</i>
+  year: 2016
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27654912
+  display: <i>Nature</i>, <b>538</b>:201-206
+  type: 3
+
+- title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
+  authors: Fu Q, Li H, Moorjani P, Jay F, Slepchenko SM, <i>et al.</i>
+  year: 2015
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
+  display: <i>Nature</i>, <b>514</b>:445-449
+  type: 3
+
+- title: "Inference of human population history from individual whole-genome sequences"
+  authors: Li H, Durbin R
+  year: 2011
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21753753
+  display: <i>Nature</i>, <b>475</b>:493-496
+  type: 3
+
+- title: "TreeFam: a curated database of phylogenetic trees of animal gene families"
+  authors: Li H, Coghlan A, Ruan J, Coin LJ, Heriche JK, <i>et al.</i>
+  year: 2006
+  url: https://www.ncbi.nlm.nih.gov/pubmed/16381935
+  display: <i>Nucleic Acids Res.</i>, <b>34</b>:D572-580
