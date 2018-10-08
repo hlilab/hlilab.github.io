@@ -18,8 +18,11 @@ non-homogeneous methods to construct phylogenetic trees. We are also open to
 other computational projects candidates would like to propose, as long as they
 fit our general direction.
 
-For the current openings, postdoc candicates should be proficient in
-programming and have experiences in writing programs more than a few hundred
-lines of code. Familarity with a high-performance language such as C/C++ is a
-plus. If interested, please [email your CV](mailto:hli@jimmy.harvard.edu). Let
-us know your GitHub, GitLab or BitBucket account if you have one.
+To apply for a postdoc fellow, a qualified candicate is expected to have a
+strong background in at least one of the following fields: bioinformatics,
+computational biology, computer science, mathematics or physics. The applicants
+should be proficient in programming and have experiences in writing programs
+more than a few hundred lines of code. Familarity with a high-performance
+language such as C/C++ is preferred. If interested, please [email your
+CV](mailto:hli@jimmy.harvard.edu). Let us know your GitHub, GitLab or BitBucket
+account if you have one.
