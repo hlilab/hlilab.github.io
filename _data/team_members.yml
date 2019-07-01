@@ -2,7 +2,7 @@
   photo: hli.jpg
   info: >
     Assistant Professor, started Oct 2018.
-	Email: <a href="mailto:hli@jimmy.harvard.edu">hli@jimmy.harvard.edu</a>
+    Email: <a href="mailto:hli@jimmy.harvard.edu">hli@jimmy.harvard.edu</a>
   number_educ: 3
   education1: Postdoc with <a href="https://www.gen.cam.ac.uk/research-groups/durbin">Richard Durbin</a>, <a href="https://www.sanger.ac.uk">WTSI</a>, UK
   education2: PhD with <a href="http://power.itp.ac.cn/~zheng/">Wei-Mou Zheng</a>, <a href="http://english.itp.cas.cn">ITP</a>, China
@@ -11,8 +11,8 @@
 - name: Haoyu Cheng
   photo: default.png
   info: >
-  	Postdoc, started May 2019.
-	Email: <a href="mailto:hcheng@jimmy.harvard.edu">hcheng@jimmy.harvard.edu</a>
+    Postdoc, started May 2019.
+    Email: <a href="mailto:hcheng@jimmy.harvard.edu">hcheng@jimmy.harvard.edu</a>
   number_educ: 1
   education1: PhD with <a href="http://staff.ustc.edu.cn/~xuyun/">Yun Xu</a>, <a href="http://en.ustc.edu.cn/">UTSC</a>, China
 
