@@ -1,6 +1,6 @@
 - name: Heng Li
   photo: hli.jpg
-  info: >
+  info: |
     Assistant Professor, started Oct 2018.
     Email: <a href="mailto:hli@jimmy.harvard.edu">hli@jimmy.harvard.edu</a>
   number_educ: 3
@@ -10,7 +10,7 @@
 
 - name: Haoyu Cheng
   photo: default.png
-  info: >
+  info: |
     Postdoc, started May 2019.
     Email: <a href="mailto:hcheng@jimmy.harvard.edu">hcheng@jimmy.harvard.edu</a>
   number_educ: 1
@@ -20,5 +20,5 @@
   photo: default.png
   info: Postdoc, started July 2019
   number_educ: 2
-  education1: Postdoc with <a href="http://arep.med.harvard.edu/gmc/">George Church</a>, <a href="https://hms.harvard.edu/">HMS</a>, China
+  education1: Postdoc with <a href="http://arep.med.harvard.edu/gmc/">George Church</a>, <a href="https://hms.harvard.edu/">HMS</a>, US
   education2: PhD with <a href="https://compgen.mpi-inf.mpg.de/">Tobias Marschall</a>, <a href="https://zbi-www.bioinf.uni-sb.de/en">CBI</a>, Germany
