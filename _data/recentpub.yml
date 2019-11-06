@@ -1,5 +1,5 @@
 - title: "Fast and accurate long-read assembly with wtdbg2"
-  authors: Ruan J<sup>&#2020;</sup> and <b>Li H</b><sup>&#2020;</sup>
+  authors: Ruan J<sup>&#8224;</sup> and <b>Li H</b><sup>&#8224;</sup>
   year: 2019
   url: https://www.biorxiv.org/content/10.1101/530972v1
   display: <i>Nat. Methods</i>, accepted
@@ -201,7 +201,7 @@
   display: <i>Nucleic Acids Res.</i>, <b>34</b>:D572-580
 
 - title: "Test data sets and evaluation of gene prediction programs on the rice genome"
-  authors: Li H*, Liu J*, Xu Z*, Jin J, Fang L, Gao L, Li Y, Xing Z, Gao S, Liu T, <i>et al.</i>
+  authors: <b>Li H</b>*, Liu J*, Xu Z*, Jin J, Fang L, Gao L, Li Y, Xing Z, Gao S, Liu T, <i>et al.</i>
   year: 2005
   url: https://link.springer.com/article/10.1007/s11390-005-0446-x
   display: <i>J Comput Sci & Technol.</i>, <b>20</b>:446-53
