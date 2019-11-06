@@ -1,0 +1,195 @@
+- title: "Fast and accurate long-read assembly with wtdbg2"
+  authors: Ruan J<sup>&#2020</sup> and <b>Li H</b><sup>&#2020</sup>
+  year: 2019
+  url: https://www.biorxiv.org/content/10.1101/530972v1
+  display: <i>Nat. Methods</i>, accepted
+
+- title: "Identifying centromeric satellites with dna-brnn"
+  authors: <b>Li H</b>
+  year: 2019
+  url: https://www.ncbi.nlm.nih.gov/pubmed/30989183
+  display: <i>Bioinformatics</i>, <b>35</b>:4408-4410
+  type: 1
+
+- title: "Minimap2: pairwise alignment for nucleotide sequences"
+  authors: <b>Li H</b>
+  year: 2018
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29750242
+  display:  <i>Bioinformatics</i>, <b>34</b>:3094-3100
+  type: 1
+
+- title: "Three-dimensional genome structures of single diploid human cells"
+  authors: Tan L*, Xing D*, Chang CH, <b>Li H</b>, Xie XS
+  year: 2018
+  url: https://www.ncbi.nlm.nih.gov/pubmed/30166492
+  display: <i>Science</i>, <b>361</b>:924-928
+  type: 2
+
+- title: "A synthetic-diploid benchmark for accurate variant-calling evaluation"
+  authors: <b>Li H</b>, Bloom JM, Farjoun Y, Fleharty M, Gauthier L, Neale B, MacArthur D
+  year: 2018
+  url: https://www.ncbi.nlm.nih.gov/pubmed/30013044
+  display: <i>Nat Methods</i>, <b>15</b>:595-597
+  type: 1
+
+- title: "Single-cell whole-genome analyses by Linear Amplification via Transposon Insertion (LIANTI)"
+  authors: Chen C*, Xing D*, Tan L*, <b>Li H</b>*, Zhou G, Huang L, Xie XS
+  year: 2017
+  url: https://www.ncbi.nlm.nih.gov/pubmed/28408603
+  display: <i>Science</i>, <b>356</b>:189-194
+  type: 2
+
+- title: "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations"
+  authors: Mallick S*, <b>Li H</b>*, Lipson M*, Mathieson I*, Gymrek M, Racimo F, <i>et al.</i>
+  year: 2016
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27654912
+  display: <i>Nature</i>, <b>538</b>:201-206
+  type: 3
+
+- title: "Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences"
+  authors: <b>Li H</b>
+  year: 2016
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27153593
+  display: <i>Bioinformatics</i>, <b>32</b>:2103-2110
+  type: 1
+
+- title: "BGT: efficient and flexible genotype query across many samples"
+  authors: <b>Li H</b>
+  year: 2016
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26500154
+  display: <i>Bioinformatics</i>, <b>32</b>:590-592
+
+- title: "A global reference for human genetic variation"
+  authors: The 1000 Genomes Project Consortium
+  year: 2015
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26432245
+  display: <i>Nature</i>, <b>526</b>:68-74
+
+- title: "FermiKit: assembly-based variant calling for Illumina resequencing data"
+  authors: <b>Li H</b>
+  year: 2015
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26220959
+  display: <i>Bioinformatics</i>, <b>31</b>:3694-3696
+
+- title: "BFC: correcting Illumina sequencing errors"
+  authors: <b>Li H</b>
+  year: 2015
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25953801
+  display: <i>Bioinformatics</i>, <b>31</b>:2885-2887
+
+- title: "Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth"
+  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström A<i>et al.</i>
+  year: 2015
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25913407
+  display: <i>Curr Biol.</i>, <b>25</b>:1395-400
+
+- title: "No evidence that selection has been less effective at removing deleterious mutations in Europeans than in Africans"
+  authors: Do R, Balick D, <b>Li H</b>, Adzhubei I, Sunyaev S, Reich D 
+  year: 2014
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25581429
+  display: <i>Nat Genet.</i>, <b>47</b>:126-31
+
+- title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
+  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, <i>et al.</i>
+  year: 2014
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
+  display: <i>Nature</i>, <b>514</b>:445-449
+  type: 3
+
+- title: "Fast construction of FM-index for long sequence reads"
+  authors: <b>Li H</b>
+  year: 2014
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25107872
+  display: <i>Bioinformatics</i>, <b>30</b>:3274-3275
+
+- title: "Towards Better Understanding of Artifacts in Variant Calling from High-Coverage Samples"
+  authors: <b>Li H</b>
+  year: 2014
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24974202
+  display: <i>Bioinformatics</i>, <b>30</b>:2843-2851
+
+- title: "Exploring single-sample SNP and INDEL calling with whole-genome de novo assembly"
+  authors: <b>Li H</b>
+  year: 2012
+  url: https://www.ncbi.nlm.nih.gov/pubmed/22569178
+  display: <i>Bioinformatics</i>, <b>28</b>:1838-1844
+
+- title: "A statistical framework for SNP calling, mutation discovery, association mapping and population genetical parameter estimation from sequencing data"
+  authors: <b>Li H</b>
+  year: 2011
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21903627
+  display: <i>Bioinformatics</i>, <b>27</b>:2987-2993 
+
+- title: "Inference of human population history from individual whole-genome sequences"
+  authors: <b>Li H</b>, Durbin R
+  year: 2011
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21753753
+  display: <i>Nature</i>, <b>475</b>:493-496
+  type: 3
+
+- title: "Improving SNP discovery by base alignment quality"
+  authors: <b>Li H</b>
+  year: 2011
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21320865
+  display: <i>Bioinformatics</i>, <b>27</b>:1157-1158
+
+- title: "Tabix: Fast retrieval of sequence features from generic TAB-delimited files"
+  authors: <b>Li H</b>
+  year: 2011
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21208982
+  display: <i>Bioinformatics</i>, <b>27</b>:718-719
+
+- title: "A survey of sequence alignment algorithms for next-generation sequencing"
+  authors: <b>Li H</b>, Homer N
+  year: 2010
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20460430
+  display: <i>Brief Bioinform</i>, <b>11</b>:473-83
+
+- title: "Fast and accurate long-read alignment with Burrows-Wheeler Transform"
+  authors: <b>Li H</b>, Durbin R
+  year: 2010
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20080505
+  display: <i>Bioinformatics</i>, <b>26</b>:589-95
+
+- title: "Fast and accurate short read alignment with Burrows-Wheeler Transform"
+  authors: <b>Li H</b>, Durbin R
+  year: 2009
+  url: https://www.ncbi.nlm.nih.gov/pubmed/19451168
+  display: <i>Bioinformatics</i>, <b>25</b>:1754-1760
+
+- title: "The Sequence Alignment/Map format and SAMtools"
+  authors: <b>Li H</b>*, Handsaker B*, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R
+  year: 2009
+  url: https://www.ncbi.nlm.nih.gov/pubmed/19505943
+  display: <i>Bioinformatics</i>, <b>25</b>:2078-2079
+  type: 1
+
+- title: "Mapping short DNA sequencing reads and calling variants using mapping quality scores"
+  authors: <b>Li H</b>, Ruan J and Durbin R
+  year: 2008
+  url: https://www.ncbi.nlm.nih.gov/pubmed/18714091
+  display: <i>Genome Res.</i>, <b>18</b>:1851-8
+
+- title: "TreeFam: 2008 Update"
+  authors: Ruan J*, <b>Li H</b>*, Chen Z, Coghlan A, Coin LJ, Guo Y, HérichéK, Hu Y, Kristiansen K, Li R<i>et al.</i>
+  year: 2008
+  url: https://www.ncbi.nlm.nih.gov/pubmed/18056084
+  display: <i>Nucleic Acids Res</i>, <b>36</b>:D735-740
+
+- title: "A cross-species alignment tool (CAT)"
+  authors: <b>Li H</b>*, Guan L*, Liu T*, Zheng W, Wong G and Wang J
+  year: 2007
+  url: https://www.ncbi.nlm.nih.gov/pubmed/17880681
+  display: <i>BMC Bioinformatics</i>, <b>8</b>:439
+
+- title: "TreeFam: a curated database of phylogenetic trees of animal gene families"
+  authors: <b>Li H</b>, Coghlan A, Ruan J, Coin LJ, Heriche JK, <i>et al.</i>
+  year: 2006
+  url: https://www.ncbi.nlm.nih.gov/pubmed/16381935
+  display: <i>Nucleic Acids Res.</i>, <b>34</b>:D572-580
+
+- title: "Test data sets and evaluation of gene prediction programs on the rice genome"
+  authors: Li H*, Liu J*, Xu Z*, Jin J, Fang L, Gao L, Li Y, Xing Z, Gao S, Liu T, <i>et al.</i>
+  year: 2005
+  url: https://link.springer.com/article/10.1007/s11390-005-0446-x
+  display: <i>J Comput Sci & Technol.</i>, <b>20</b>:446-53
