@@ -1,5 +1,5 @@
 - title: "Fast and accurate long-read assembly with wtdbg2"
-  authors: Ruan J<sup>&#2020</sup> and <b>Li H</b><sup>&#2020</sup>
+  authors: Ruan J<sup>&#2020;</sup> and <b>Li H</b><sup>&#2020;</sup>
   year: 2019
   url: https://www.biorxiv.org/content/10.1101/530972v1
   display: <i>Nat. Methods</i>, accepted
@@ -108,6 +108,12 @@
   url: https://www.ncbi.nlm.nih.gov/pubmed/24974202
   display: <i>Bioinformatics</i>, <b>30</b>:2843-2851
 
+- title: "The complete genome sequence of a Neanderthal from the Altai Mountains"
+  authors: Prüfer K, Racimo F, Patterson N, Jay F, Sankararaman S, Sawyer S, Heinze A, Renaud G, Sudmant PH, de Filippo C,<i>et al.</i>
+  year: 2014
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24352235
+  display: <i>Nature</i>, <b>505</b>:43-49
+
 - title: "Exploring single-sample SNP and INDEL calling with whole-genome de novo assembly"
   authors: <b>Li H</b>
   year: 2012
@@ -144,6 +150,12 @@
   year: 2010
   url: https://www.ncbi.nlm.nih.gov/pubmed/20460430
   display: <i>Brief Bioinform</i>, <b>11</b>:473-83
+
+- title: "A draft sequence of the Neandertal genome"
+  authors: Green RE, Krause J, Briggs AW, Maricic T, Stenzel U, Kircher M, Patterson N, <b>Li H</b>, Zhai W, Fritz MH, <i>et al.</i>
+  year: 2010
+  url: https://www.ncbi.nlm.nih.gov/pubmed/20448178
+  display: <i>Science</i>, <b>328</b>:680-684
 
 - title: "Fast and accurate long-read alignment with Burrows-Wheeler Transform"
   authors: <b>Li H</b>, Durbin R
