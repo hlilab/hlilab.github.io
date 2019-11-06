@@ -1,5 +1,5 @@
 - title: "Accurate chromosome-scale haplotype-resolved assembly of human genomes"
-  authors: <b>Garg S</b>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, Li H<sup>&#8224;</sup>
+  authors: <b>Garg S</b>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2019
   url: https://www.biorxiv.org/content/10.1101/810341v1
   display: submitted
@@ -46,7 +46,7 @@
   type: 2
 
 - title: "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations"
-  authors: Mallick S*, <b>Li H</b>*, Lipson M*, Mathieson I*, Gymrek M, Racimo F, <i>et al.</i>
+  authors: Mallick S*, <b>Li H</b>*, Lipson M*, Mathieson I*, Gymrek M, Racimo F, &hellip;, Reich D
   year: 2016
   url: https://www.ncbi.nlm.nih.gov/pubmed/27654912
   display: <i>Nature</i>, <b>538</b>:201-206
@@ -84,7 +84,7 @@
   display: <i>Bioinformatics</i>, <b>31</b>:2885-2887
 
 - title: "Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth"
-  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström A<i>et al.</i>
+  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dalén .
   year: 2015
   url: https://www.ncbi.nlm.nih.gov/pubmed/25913407
   display: <i>Curr Biol.</i>, <b>25</b>:1395-400
@@ -96,7 +96,7 @@
   display: <i>Nat Genet.</i>, <b>47</b>:126-31
 
 - title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
-  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, <i>et al.</i>
+  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D, Kelso J, Viola TB, Pää S
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
   display: <i>Nature</i>, <b>514</b>:445-449
