@@ -2,7 +2,7 @@
   authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2019
   url: https://www.biorxiv.org/content/10.1101/810341v1
-  display: <i>submitted</i>
+  display: <i>Submitted</i>
   type: 1
 
 - title: "A haplotype-aware de novo assembly of related individuals using pedigree sequence graph"
@@ -20,10 +20,10 @@
   type: 1
 
 - title: "Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome"
-  authors: Wenger AM, Peluso P, Rowell WJ, Chang PC, Hall RJ, Concepcion GT, Ebler J, Fungtammasan A, Kolesnikov A, Olson ND, Töpfer A, Alonge M, Mahmoud M, Qian Y Chin CS, Phillippy AM, Schatz MC, Myers G, DePristo MA, Ruan J, Marschall T, Sedlazeck FJ, Zook JM, <b>Li H</b>, Koren S, Carroll A, Rank DR, Hunkapiller MW
+  authors: Wenger AM*, Peluso P*, Rowell WJ, Chang PC, Hall RJ, &hellip;, <b>Li H</b>, &hellip;, Rank DR<sup>&#8224;</sup>, Hunkapiller MW<sup>&#8224;</sup>
   year: 2019
   url: https://www.ncbi.nlm.nih.gov/pubmed/31406327
-  display: <i>Nat Biotechnol.</i>
+  display: <i>Nat Biotechnol.</i>, <b>37</b>:1155-1162
   type: 2
 
 - title: "Identifying centromeric satellites with dna-brnn"
@@ -48,7 +48,7 @@
   type: 2
 
 - title: "A synthetic-diploid benchmark for accurate variant-calling evaluation"
-  authors: <b>Li H</b>, Bloom JM, Farjoun Y, Fleharty M, Gauthier L, Neale B, MacArthur D
+  authors: <b>Li H</b><sup>&#8224;</sup>, Bloom JM, Farjoun Y, Fleharty M, Gauthier L, Neale B<sup>&#8224;</sup>, MacArthur D<sup>&#8224;</sup>
   year: 2018
   url: https://www.ncbi.nlm.nih.gov/pubmed/30013044
   display: <i>Nat Methods</i>, <b>15</b>:595-597
@@ -100,7 +100,7 @@
   display: <i>Bioinformatics</i>, <b>31</b>:2885-2887
 
 - title: "Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth"
-  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dalén .
+  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dal�L
   year: 2015
   url: https://www.ncbi.nlm.nih.gov/pubmed/25913407
   display: <i>Curr Biol.</i>, <b>25</b>:1395-400
@@ -112,7 +112,7 @@
   display: <i>Nat Genet.</i>, <b>47</b>:126-31
 
 - title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
-  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D, Kelso J, Viola TB, Pää S
+  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D, Kelso J, Viola TB, Päbo S
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
   display: <i>Nature</i>, <b>514</b>:445-449
