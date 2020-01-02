@@ -174,7 +174,7 @@
   display: <i>Brief Bioinform</i>, <b>11</b>:473-83
 
 - title: "A draft sequence of the Neandertal genome"
-  authors: Green RE*,<sup>&#8224;</sup>, Krause J*, Briggs AW*, Maricic T*, Stenzel U*, Kircher M*, Patterson N*, <b>Li H</b>, &hellip;, Reich D<sup>&#8224;</sup>, Pääbo S<sup>&#8224;</sup>
+  authors: Green RE*<sup>,&#8224;</sup>, Krause J*, Briggs AW*, Maricic T*, Stenzel U*, Kircher M*, Patterson N*, <b>Li H</b>, &hellip;, Reich D<sup>&#8224;</sup>, Pääbo S<sup>&#8224;</sup>
   year: 2010
   url: https://www.ncbi.nlm.nih.gov/pubmed/20448178
   display: <i>Science</i>, <b>328</b>:680-684
