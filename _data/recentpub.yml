@@ -100,7 +100,7 @@
   display: <i>Bioinformatics</i>, <b>31</b>:2885-2887
 
 - title: "Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth"
-  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dal�L
+  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dalén L
   year: 2015
   url: https://www.ncbi.nlm.nih.gov/pubmed/25913407
   display: <i>Curr Biol.</i>, <b>25</b>:1395-400
@@ -112,7 +112,7 @@
   display: <i>Nat Genet.</i>, <b>47</b>:126-31
 
 - title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
-  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D, Kelso J, Viola TB, Päbo S
+  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D, Kelso J, Viola TB, Pääbo S
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
   display: <i>Nature</i>, <b>514</b>:445-449
@@ -131,7 +131,7 @@
   display: <i>Bioinformatics</i>, <b>30</b>:2843-2851
 
 - title: "The complete genome sequence of a Neanderthal from the Altai Mountains"
-  authors: Prüfer K, Racimo F, Patterson N, Jay F, Sankararaman S, Sawyer S, Heinze A, Renaud G, Sudmant PH, de Filippo C,<i>et al.</i>
+  authors: Prüfer K, Racimo F, Patterson N, Jay F, Sankararaman S, Sawyer S, Heinze A, Renaud G, Sudmant PH, de Filippo C, <i>et al.</i>
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/24352235
   display: <i>Nature</i>, <b>505</b>:43-49
@@ -180,19 +180,19 @@
   display: <i>Science</i>, <b>328</b>:680-684
 
 - title: "Fast and accurate long-read alignment with Burrows-Wheeler Transform"
-  authors: <b>Li H</b>, Durbin R
+  authors: <b>Li H</b>, Durbin R<sup>&#8224;</sup>
   year: 2010
   url: https://www.ncbi.nlm.nih.gov/pubmed/20080505
   display: <i>Bioinformatics</i>, <b>26</b>:589-95
 
 - title: "Fast and accurate short read alignment with Burrows-Wheeler Transform"
-  authors: <b>Li H</b>, Durbin R
+  authors: <b>Li H</b>, Durbin R<sup>&#8224;</sup>
   year: 2009
   url: https://www.ncbi.nlm.nih.gov/pubmed/19451168
   display: <i>Bioinformatics</i>, <b>25</b>:1754-1760
 
 - title: "The Sequence Alignment/Map format and SAMtools"
-  authors: <b>Li H</b>*, Handsaker B*, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R
+  authors: <b>Li H</b>*, Handsaker B*, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R<sup>&#8224;</sup>
   year: 2009
   url: https://www.ncbi.nlm.nih.gov/pubmed/19505943
   display: <i>Bioinformatics</i>, <b>25</b>:2078-2079
@@ -205,25 +205,25 @@
   display: <i>Genome Res.</i>, <b>18</b>:1851-8
 
 - title: "TreeFam: 2008 Update"
-  authors: Ruan J*, <b>Li H</b>*, Chen Z, Coghlan A, Coin LJ, Guo Y, HérichéK, Hu Y, Kristiansen K, Li R<i>et al.</i>
+  authors: Ruan J*, <b>Li H</b>*, Chen Z, Coghlan A, Coin LJ, &hellip;, Wang J<sup>&#8224;</sup>, Durbin R<sup>&#8224;</sup>
   year: 2008
   url: https://www.ncbi.nlm.nih.gov/pubmed/18056084
   display: <i>Nucleic Acids Res</i>, <b>36</b>:D735-740
 
 - title: "A cross-species alignment tool (CAT)"
-  authors: <b>Li H</b>*, Guan L*, Liu T*, Zheng W, Wong G and Wang J
+  authors: <b>Li H</b>*, Guan L*, Liu T*, Zheng W, Wong G<sup>&#8224;</sup> and Wang J<sup>&#8224;</sup>
   year: 2007
   url: https://www.ncbi.nlm.nih.gov/pubmed/17880681
   display: <i>BMC Bioinformatics</i>, <b>8</b>:439
 
 - title: "TreeFam: a curated database of phylogenetic trees of animal gene families"
-  authors: <b>Li H</b>, Coghlan A, Ruan J, Coin LJ, Heriche JK, <i>et al.</i>
+  authors: <b>Li H</b>, Coghlan A, Ruan J, Coin LJ, Hériché JK, &hellip;, Durbin R<sup>&#8224;</sup>
   year: 2006
   url: https://www.ncbi.nlm.nih.gov/pubmed/16381935
   display: <i>Nucleic Acids Res.</i>, <b>34</b>:D572-580
 
 - title: "Test data sets and evaluation of gene prediction programs on the rice genome"
-  authors: <b>Li H</b>*, Liu J*, Xu Z*, Jin J, Fang L, Gao L, Li Y, Xing Z, Gao S, Liu T, <i>et al.</i>
+  authors: <b>Li H</b>*, Liu J*, Xu Z*, Jin J, Fang L, &hellip;, Hao B-L<sup>&#8224;</sup>
   year: 2005
   url: https://link.springer.com/article/10.1007/s11390-005-0446-x
   display: <i>J Comput Sci & Technol.</i>, <b>20</b>:446-53
