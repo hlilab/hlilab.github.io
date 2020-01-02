@@ -26,3 +26,8 @@ more than a few hundred lines of code. Familarity with a high-performance
 language such as C/C++ is preferred. If interested, please [email your
 CV](mailto:hli@jimmy.harvard.edu). Let us know your GitHub, GitLab or BitBucket
 account if you have one.
+
+A more complete job description can be found [under this link][jobad]. You can
+still contact me even if this link expires. We often have openings.
+
+[jobad]: https://careers-dfci.icims.com/jobs/17500/postdoctoral-research-fellow-in-bioinformatics-computational-biology---heng-li-lab/job?mode=view
