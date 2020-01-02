@@ -6,7 +6,7 @@
   type: 1
 
 - title: "A haplotype-aware de novo assembly of related individuals using pedigree sequence graph"
-  authors: <b>Garg S</b>, Aach J, <b>Li H</b>, Durbin R, Church G
+  authors: <b>Garg S</b><sup>&#8224;</sup>, Aach J, <b>Li H</b>, Durbin R, Church GM<sup>&#8224;</sup>
   year: 2019
   url: https://www.ncbi.nlm.nih.gov/pubmed/31860070
   display: <i>Bioinformatics</i>, <i>in press</i>
@@ -41,7 +41,7 @@
   type: 1
 
 - title: "Three-dimensional genome structures of single diploid human cells"
-  authors: Tan L*, Xing D*, Chang CH, <b>Li H</b>, Xie XS
+  authors: Tan L*, Xing D*, Chang CH, <b>Li H</b>, Xie XS<sup>&#8224;</sup>
   year: 2018
   url: https://www.ncbi.nlm.nih.gov/pubmed/30166492
   display: <i>Science</i>, <b>361</b>:924-928
@@ -55,14 +55,14 @@
   type: 1
 
 - title: "Single-cell whole-genome analyses by Linear Amplification via Transposon Insertion (LIANTI)"
-  authors: Chen C*, Xing D*, Tan L*, <b>Li H</b>*, Zhou G, Huang L, Xie XS
+  authors: Chen C*, Xing D*, Tan L*, <b>Li H</b>*, Zhou G, Huang L, Xie XS<sup>&#8224;</sup>
   year: 2017
   url: https://www.ncbi.nlm.nih.gov/pubmed/28408603
   display: <i>Science</i>, <b>356</b>:189-194
   type: 2
 
 - title: "The Simons Genome Diversity Project: 300 genomes from 142 diverse populations"
-  authors: Mallick S*, <b>Li H</b>*, Lipson M*, Mathieson I*, Gymrek M, Racimo F, &hellip;, Reich D
+  authors: Mallick S*, <b>Li H</b>*, Lipson M*, Mathieson I*, Gymrek M, Racimo F, &hellip;, Reich D<sup>&#8224;</sup>
   year: 2016
   url: https://www.ncbi.nlm.nih.gov/pubmed/27654912
   display: <i>Nature</i>, <b>538</b>:201-206
@@ -100,19 +100,19 @@
   display: <i>Bioinformatics</i>, <b>31</b>:2885-2887
 
 - title: "Complete genomes reveal signatures of demographic and genetic declines in the woolly mammoth"
-  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dalén L
+  authors: Palkopoulou E, Mallick S, Skoglund P, Enk J, Rohland N, <b>Li H</b>, Omrak A, Vartanyan S, Poinar H, Götherström, &hellip;, Dalén L<sup>&#8224;</sup>
   year: 2015
   url: https://www.ncbi.nlm.nih.gov/pubmed/25913407
   display: <i>Curr Biol.</i>, <b>25</b>:1395-400
 
 - title: "No evidence that selection has been less effective at removing deleterious mutations in Europeans than in Africans"
-  authors: Do R, Balick D, <b>Li H</b>, Adzhubei I, Sunyaev S, Reich D 
+  authors: Do R, Balick D, <b>Li H</b>, Adzhubei I, Sunyaev S<sup>&#8224;</sup>, Reich D<sup>&#8224;</sup>
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/25581429
   display: <i>Nat Genet.</i>, <b>47</b>:126-31
 
 - title: "Genome sequence of a 45,000-year-old modern human from western Siberia"
-  authors: Fu Q, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D, Kelso J, Viola TB, Pääbo S
+  authors: Fu Q<sup>&#8224;</sup>, <b>Li H</b>, Moorjani P, Jay F, Slepchenko SM, &hellip;, Reich D<sup>&#8224;</sup>, Kelso J<sup>&#8224;</sup>, Viola TB<sup>&#8224;</sup>, Pääbo S
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/25341783
   display: <i>Nature</i>, <b>514</b>:445-449
@@ -131,7 +131,7 @@
   display: <i>Bioinformatics</i>, <b>30</b>:2843-2851
 
 - title: "The complete genome sequence of a Neanderthal from the Altai Mountains"
-  authors: Prüfer K, Racimo F, Patterson N, Jay F, Sankararaman S, Sawyer S, Heinze A, Renaud G, Sudmant PH, de Filippo C, <i>et al.</i>
+  authors: Prüfer K, Racimo F, Patterson N, Jay F, &hellip;, <b>Li H</b>, &hellip;, Slatkin M<sup>&#8224;</sup>, Reich D<sup>&#8224;</sup>, Kelso J, Pääbo S<sup>&#8224;</sup>
   year: 2014
   url: https://www.ncbi.nlm.nih.gov/pubmed/24352235
   display: <i>Nature</i>, <b>505</b>:43-49
@@ -149,7 +149,7 @@
   display: <i>Bioinformatics</i>, <b>27</b>:2987-2993 
 
 - title: "Inference of human population history from individual whole-genome sequences"
-  authors: <b>Li H</b>, Durbin R
+  authors: <b>Li H</b><sup>&#8224;</sup>, Durbin R<sup>&#8224;</sup>
   year: 2011
   url: https://www.ncbi.nlm.nih.gov/pubmed/21753753
   display: <i>Nature</i>, <b>475</b>:493-496
@@ -168,13 +168,13 @@
   display: <i>Bioinformatics</i>, <b>27</b>:718-719
 
 - title: "A survey of sequence alignment algorithms for next-generation sequencing"
-  authors: <b>Li H</b>, Homer N
+  authors: <b>Li H</b><sup>&#8224;</sup>, Homer N
   year: 2010
   url: https://www.ncbi.nlm.nih.gov/pubmed/20460430
   display: <i>Brief Bioinform</i>, <b>11</b>:473-83
 
 - title: "A draft sequence of the Neandertal genome"
-  authors: Green RE, Krause J, Briggs AW, Maricic T, Stenzel U, Kircher M, Patterson N, <b>Li H</b>, Zhai W, Fritz MH, <i>et al.</i>
+  authors: Green RE*,<sup>&#8224;</sup>, Krause J*, Briggs AW*, Maricic T*, Stenzel U*, Kircher M*, Patterson N*, <b>Li H</b>, &hellip;, Reich D<sup>&#8224;</sup>, Pääbo S<sup>&#8224;</sup>
   year: 2010
   url: https://www.ncbi.nlm.nih.gov/pubmed/20448178
   display: <i>Science</i>, <b>328</b>:680-684
