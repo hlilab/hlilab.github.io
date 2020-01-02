@@ -6,6 +6,8 @@ sitemap: false
 permalink: /publications/
 ---
 
+# Recent Publications
+
 (See also [Google Scholar](https://scholar.google.com/citations?user=HQv0p0kAAAAJ))
 
 <ul>

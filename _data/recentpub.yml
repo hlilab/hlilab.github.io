@@ -2,13 +2,29 @@
   authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2019
   url: https://www.biorxiv.org/content/10.1101/810341v1
-  display: submitted
+  display: <i>submitted</i>
+  type: 1
+
+- title: "A haplotype-aware de novo assembly of related individuals using pedigree sequence graph"
+  authors: <b>Garg S</b>, Aach J, <b>Li H</b>, Durbin R, Church G
+  year: 2019
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31860070
+  display: <i>Bioinformatics</i>, <i>in press</i>
+  type: 2
 
 - title: "Fast and accurate long-read assembly with wtdbg2"
   authors: Ruan J<sup>&#8224;</sup> and <b>Li H</b><sup>&#8224;</sup>
   year: 2019
-  url: https://www.biorxiv.org/content/10.1101/530972v1
-  display: <i>Nat. Methods</i>, accepted
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31819265
+  display: <i>Nat. Methods</i>, <i>in press</i>
+  type: 1
+
+- title: "Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome"
+  authors: Wenger AM, Peluso P, Rowell WJ, Chang PC, Hall RJ, Concepcion GT, Ebler J, Fungtammasan A, Kolesnikov A, Olson ND, Töpfer A, Alonge M, Mahmoud M, Qian Y Chin CS, Phillippy AM, Schatz MC, Myers G, DePristo MA, Ruan J, Marschall T, Sedlazeck FJ, Zook JM, <b>Li H</b>, Koren S, Carroll A, Rank DR, Hunkapiller MW
+  year: 2019
+  url: https://www.ncbi.nlm.nih.gov/pubmed/31406327
+  display: <i>Nat Biotechnol.</i>
+  type: 2
 
 - title: "Identifying centromeric satellites with dna-brnn"
   authors: <b>Li H</b>
