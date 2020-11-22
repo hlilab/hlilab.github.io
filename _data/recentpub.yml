@@ -18,6 +18,13 @@
   display: <i>Accepted</i>
   type: 1
 
+- title: "Targeting a cytokine checkpoint enhances the fitness of armored cord blood CAR-NK cells"
+  authors: Daher M*, Basar R*, Gokdemir E, Baran N, Uprety N, &hellip;, <b>Li H</b>, &hellip;, Rezvani K<sup>&#8224;</sup>
+  year: 2020
+  url: https://pubmed.ncbi.nlm.nih.gov/32902645/
+  display: <i>Blood</i>, <i>in press</i>
+  type: 2
+
 - title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
   authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
   year: 2020
@@ -40,10 +47,10 @@
   type: 1
 
 - title: "A haplotype-aware de novo assembly of related individuals using pedigree sequence graph"
-  authors: <b>Garg S</b><sup>&#8224;</sup>, Aach J, <b>Li H</b>, Durbin R, Church GM<sup>&#8224;</sup>
+  authors: Garg S<sup>&#8224;</sup>, Aach J, <b>Li H</b>, Durbin R, Church GM<sup>&#8224;</sup>
   year: 2019
   url: https://www.ncbi.nlm.nih.gov/pubmed/31860070
-  display: <i>Bioinformatics</i>, <i>in press</i>
+  display: <i>Bioinformatics</i>, <b>36</b>:2385-2392
   type: 2
 
 - title: "Fast and accurate long-read assembly with wtdbg2"
