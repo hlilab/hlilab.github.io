@@ -1,8 +1,42 @@
-- title: "Accurate chromosome-scale haplotype-resolved assembly of human genomes"
-  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
-  year: 2019
-  url: https://www.biorxiv.org/content/10.1101/810341v1
+- title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
+  authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS
+  year: 2020
+  display: <i>Accepted</i>
+  type: 1
+
+- title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
+  authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2020
+  url: https://www.biorxiv.org/content/10.1101/2020.06.07.139212v1
   display: <i>Submitted</i>
+  type: 1
+
+- title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
+  authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, Zhang H, <b>Li H</b><sup>&#8224;</sup>
+  year: 2020
+  url: https://arxiv.org/abs/2008.01237
+  display: <i>Accepted</i>
+  type: 1
+
+- title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
+  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
+  year: 2020
+  url: https://pubmed.ncbi.nlm.nih.gov/32966548/
+  display: <i>Bioinformatics</i>, <i>in press</i>
+  type: 1
+
+- title: "The design and construction of reference pangenome graphs with minigraph"
+  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Feng X</b>, Chu C
+  year: 2020
+  url: https://pubmed.ncbi.nlm.nih.gov/33066802/
+  display: <i>Genome Biol</i>, <b>21</b>:265
+  type: 1
+
+- title: "Chromosome-scale haplotype-resolved assembly of human genomes"
+  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2020
+  url: https://www.biorxiv.org/content/10.1101/810341v1
+  display: <i>Accepted</i>
   type: 1
 
 - title: "A haplotype-aware de novo assembly of related individuals using pedigree sequence graph"
@@ -16,7 +50,7 @@
   authors: Ruan J<sup>&#8224;</sup> and <b>Li H</b><sup>&#8224;</sup>
   year: 2019
   url: https://www.ncbi.nlm.nih.gov/pubmed/31819265
-  display: <i>Nat. Methods</i>, <i>in press</i>
+  display: <i>Nat. Methods</i>, <b>17</b>:155-158
   type: 1
 
 - title: "Accurate circular consensus long-read sequencing improves variant detection and assembly of a human genome"
