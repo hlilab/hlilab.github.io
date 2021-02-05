@@ -8,7 +8,14 @@
   authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, <b>Zhang H</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33526886/
-  display: <i>Nat Methods</i>
+  display: <i>Nat Methods</i>, <i>published online</i>
+  type: 1
+
+- title: "Chromosome-scale haplotype-resolved assembly of human genomes"
+  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2020
+  url: https://pubmed.ncbi.nlm.nih.gov/33288905/
+  display: <i>Nat Biotechnol.</i>, <i>published online</i>
   type: 1
 
 - title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
@@ -18,13 +25,6 @@
   display: <i>Submitted</i>
   type: 1
 
-- title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
-  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
-  year: 2020
-  url: https://pubmed.ncbi.nlm.nih.gov/32966548/
-  display: <i>Bioinformatics</i>
-  type: 1
-
 - title: "The design and construction of reference pangenome graphs with minigraph"
   authors: <b>Li H</b><sup>&#8224;</sup>, <b>Feng X</b>, Chu C
   year: 2020
@@ -32,16 +32,16 @@
   display: <i>Genome Biol</i>, <b>21</b>:265
   type: 1
 
-- title: "Chromosome-scale haplotype-resolved assembly of human genomes"
-  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+- title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
+  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
   year: 2020
-  url: https://www.biorxiv.org/content/10.1101/810341v1
-  display: <i>Accepted</i>
+  url: https://pubmed.ncbi.nlm.nih.gov/32966548/
+  display: <i>Bioinformatics</i>, <i>published online</i>
   type: 1
 
 - title: "Fast and accurate long-read assembly with wtdbg2"
   authors: Ruan J<sup>&#8224;</sup> and <b>Li H</b><sup>&#8224;</sup>
-  year: 2019
+  year: 2020
   url: https://www.ncbi.nlm.nih.gov/pubmed/31819265
   display: <i>Nat. Methods</i>, <b>17</b>:155-158
   type: 1
