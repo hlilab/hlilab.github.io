@@ -1,3 +1,16 @@
+- title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
+  authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS<sup>&#8224;</sup>
+  year: 2021
+  display: <i>Accepted</i>
+  type: 1
+
+- title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
+  authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, <b>Zhang H</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/33526886/
+  display: <i>Nat Methods</i>
+  type: 1
+
 - title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
   authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2020
@@ -5,24 +18,11 @@
   display: <i>Submitted</i>
   type: 1
 
-- title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
-  authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS<sup>&#8224;</sup>
-  year: 2020
-  display: <i>Submitted</i>
-  type: 1
-
-- title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
-  authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, Zhang H, <b>Li H</b><sup>&#8224;</sup>
-  year: 2020
-  url: https://arxiv.org/abs/2008.01237
-  display: <i>Accepted</i>
-  type: 1
-
 - title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
   authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
   year: 2020
   url: https://pubmed.ncbi.nlm.nih.gov/32966548/
-  display: <i>Bioinformatics</i>, <i>in press</i>
+  display: <i>Bioinformatics</i>
   type: 1
 
 - title: "The design and construction of reference pangenome graphs with minigraph"
