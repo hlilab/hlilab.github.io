@@ -1,21 +1,21 @@
 - title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
   authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS<sup>&#8224;</sup>
   year: 2021
-  display: <i>Accepted</i>
+  display: <i>Proc Natl Acad Sci</i>, <b>118</b>:e2013106118
   type: 1
 
 - title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
   authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, <b>Zhang H</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33526886/
-  display: <i>Nat Methods</i>, <i>published online</i>
+  display: <i>Nat Methods</i>, <b>18</b>:170-175
   type: 1
 
 - title: "Chromosome-scale haplotype-resolved assembly of human genomes"
   authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2020
   url: https://pubmed.ncbi.nlm.nih.gov/33288905/
-  display: <i>Nat Biotechnol.</i>, <i>published online</i>
+  display: <i>Nat Biotechnol</i>, <i>published online</i>
   type: 1
 
 - title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
