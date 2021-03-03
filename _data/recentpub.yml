@@ -1,3 +1,10 @@
+- title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
+  authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2021
+  url: https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab062/6157846
+  display: <i>Mol Biol Evol</i>. <i>published online</i>
+  type: 1
+
 - title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
   authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS<sup>&#8224;</sup>
   year: 2021
@@ -17,13 +24,6 @@
   year: 2020
   url: https://pubmed.ncbi.nlm.nih.gov/33288905/
   display: <i>Nat Biotechnol</i>, <i>published online</i>
-  type: 1
-
-- title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
-  authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
-  year: 2020
-  url: https://www.biorxiv.org/content/10.1101/2020.06.07.139212v1
-  display: <i>Submitted</i>
   type: 1
 
 - title: "The design and construction of reference pangenome graphs with minigraph"
