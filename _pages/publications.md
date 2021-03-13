@@ -12,6 +12,6 @@ permalink: /publications/
 
 <ul>
 {% for publi in site.data.recentpub %}
-<li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.</li>
+<li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>. {{ publi.cite }}</li>
 {% endfor %}
 </ul>
