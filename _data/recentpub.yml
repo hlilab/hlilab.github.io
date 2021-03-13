@@ -3,6 +3,7 @@
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33681998/
   display: <i>Mol Biol Evol</i>. <i>published online</i>
+  pmid: 33681998
   type: 1
 
 - title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
@@ -10,6 +11,7 @@
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33593904/
   display: <i>Proc Natl Acad Sci</i>, <b>118</b>:e2013106118
+  pmid: 33593904
   type: 1
 
 - title: "Haplotype-resolved de novo assembly with phased assembly graphs with hifiasm"
@@ -17,7 +19,7 @@
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33526886/
   display: <i>Nat Methods</i>, <b>18</b>:170-175
-  cite: <span class="__dimensions_badge_embed__" data-id="pub.1135019727" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+  pmid: 33526886
   type: 1
 
 - title: "Chromosome-scale haplotype-resolved assembly of human genomes"

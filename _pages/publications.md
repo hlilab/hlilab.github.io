@@ -6,12 +6,21 @@ sitemap: false
 permalink: /publications/
 ---
 
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+
 # Selected Publications
 
 (See also [Google Scholar](https://scholar.google.com/citations?user=HQv0p0kAAAAJ); star for equal contribution; <sup>&#8224;</sup> for corresponding authors; bold fontface for lab members/interns)
 
 <ul>
 {% for publi in site.data.recentpub %}
-<li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>. {{ publi.cite }}</li>
+<li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
+<table><tr style="vertical-align:top">
+<td>Citations:</td>
+<td><div data-pmid="{{ publi.pmid }}" class="altmetric-embed"></div></td>
+<td><div class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle"></div></td>
+</tr></table>
+</li>
 {% endfor %}
 </ul>
