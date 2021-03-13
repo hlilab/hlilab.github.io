@@ -18,8 +18,8 @@ permalink: /publications/
 <li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
 <table><tr style="vertical-align:top">
 <td>Citations:&nbsp;</td>
-<td><div data-badge-type="2" data-condensed="true" data-pmid="{{ publi.pmid }}" class="altmetric-embed"></div>&nbsp;</td>
-<td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle"></span>&nbsp;</td>
+<td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle">&nbsp;</span></td>
+<td><div data-badge-type="2" data-condensed="true" data-pmid="{{ publi.pmid }}" class="altmetric-embed">&nbsp;</div></td>
 </tr></table>
 </li>
 {% endfor %}
