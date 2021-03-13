@@ -1,7 +1,7 @@
 - title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
   authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2021
-  url: https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msab062/6157846
+  url: https://pubmed.ncbi.nlm.nih.gov/33681998/
   display: <i>Mol Biol Evol</i>. <i>published online</i>
   type: 1
 
@@ -16,7 +16,7 @@
   authors: <b>Cheng H</b>, Concepcion GT, <b>Feng X</b>, <b>Zhang H</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33526886/
-  display: <i>Nat Methods</i>, <b>18</b>:170-175
+  display: <i>Nat Methods</i>, <b>18</b>:170-175 <span class="__dimensions_badge_embed__" data-id="pub.1135019727"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   type: 1
 
 - title: "Chromosome-scale haplotype-resolved assembly of human genomes"
