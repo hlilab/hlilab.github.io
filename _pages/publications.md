@@ -17,9 +17,9 @@ permalink: /publications/
 {% for publi in site.data.recentpub %}
 <li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
 <table><tr style="vertical-align:top">
-<td>Citations:</td>
-<td><div data-pmid="{{ publi.pmid }}" class="altmetric-embed"></div></td>
-<td><div class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle"></div></td>
+<td>Citations:&nbsp;</td>
+<td><div data-badge-type="2" data-condensed="true" data-pmid="{{ publi.pmid }}" class="altmetric-embed"></div>&nbsp;</td>
+<td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle"></span>&nbsp;</td>
 </tr></table>
 </li>
 {% endfor %}
