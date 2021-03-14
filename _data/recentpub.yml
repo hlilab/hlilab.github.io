@@ -27,6 +27,7 @@
   year: 2020
   url: https://pubmed.ncbi.nlm.nih.gov/33288905/
   display: <i>Nat Biotechnol</i>, <i>published online</i>
+  pmid: 33288905
   type: 1
 
 - title: "The design and construction of reference pangenome graphs with minigraph"
@@ -34,6 +35,7 @@
   year: 2020
   url: https://pubmed.ncbi.nlm.nih.gov/33066802/
   display: <i>Genome Biol</i>, <b>21</b>:265
+  pmid: 33066802
   type: 1
 
 - title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"

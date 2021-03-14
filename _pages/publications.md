@@ -19,7 +19,7 @@ permalink: /publications/
 <table><tr style="vertical-align:top">
 <td>Citations:&nbsp;</td>
 <td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle">&nbsp;</span></td>
-<td><div data-badge-type="2" data-condensed="true" data-pmid="{{ publi.pmid }}" class="altmetric-embed">&nbsp;</div></td>
+<td><span data-badge-type="4" data-pmid="{{ publi.pmid }}" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&nbsp;</span></td>
 </tr></table>
 </li>
 {% endfor %}
