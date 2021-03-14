@@ -7,7 +7,6 @@ permalink: /publications/
 ---
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 # Selected Publications
 
@@ -16,11 +15,7 @@ permalink: /publications/
 <ul>
 {% for publi in site.data.recentpub %}
 <li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
-<table class="shadow-none"><tr style="vertical-align:top">
-<td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle">&nbsp;</span></td>
-<td><div data-badge-type="2" data-pmid="{{ publi.pmid }}" data-condensed="true" class="altmetric-embed shadow-none">&nbsp;</div></td>
-<td><div><a href="https://pubmed.ncbi.nlm.nih.gov/33526886"><img class="shadow-none rounded" src="https://img.shields.io/badge/PMID-33526886-blue"/></a></div></td>
-</tr></table>
+<span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle">&nbsp;</span>
 </li>
 {% endfor %}
 </ul>
