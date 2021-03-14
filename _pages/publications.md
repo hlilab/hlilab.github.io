@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 
 # Selected Publications
 
@@ -19,7 +19,7 @@ permalink: /publications/
 <table><tr style="vertical-align:top">
 <td>Citations:&nbsp;</td>
 <td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle">&nbsp;</span></td>
-<td><span data-badge-type="4" data-pmid="{{ publi.pmid }}" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed">&nbsp;</span></td>
+<td><span data-badge-type="2" data-pmid="{{ publi.pmid }}" data-condensed="true" class="altmetric-embed">&nbsp;</span></td>
 </tr></table>
 </li>
 {% endfor %}
