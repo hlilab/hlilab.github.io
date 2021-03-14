@@ -17,9 +17,8 @@ permalink: /publications/
 {% for publi in site.data.recentpub %}
 <li>{{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
 <table><tr style="vertical-align:top">
-<td>Citations:&nbsp;</td>
 <td><span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-legend="never" data-style="small_rectangle">&nbsp;</span></td>
-<td><span data-badge-type="2" data-pmid="{{ publi.pmid }}" data-condensed="true" class="altmetric-embed">&nbsp;</span></td>
+<td><a href="https://pubmed.ncbi.nlm.nih.gov/{{ publi.pmid }}"><img src="https://img.shields.io/badge/PMID-{{ publi.pmid }}-blue"></a></td>
 </tr></table>
 </li>
 {% endfor %}
