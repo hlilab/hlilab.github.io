@@ -21,9 +21,7 @@ For details, please see the [Research](research) page.
 
 We are part of the [department of Biomedical Informatics][dbmi] of Harvard
 Medical School and the [department of Biostatistics & Computational
-Biology][bcb] of Dana-Farber Cancer Institute. Our lab has collaborations with
-the [Xie Research Group][xie], the [Reich lab][reich] and the [MacArthur
-lab][macarthur] around the Boston area, as well as others elsewhere. Our work
+Biology][bcb] of Dana-Farber Cancer Institute. Our work
 is routinely used by thousands of researchers across the world. We are an
 established young lab and **[are looking for](vacancies) passionate PhD
 students and postdocs to join our team!**
