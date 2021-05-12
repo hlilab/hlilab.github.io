@@ -6,6 +6,14 @@
   pmid: 33681998
   type: 1
 
+- title: "Chromosome-scale haplotype-resolved assembly of human genomes"
+  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/33288905/
+  display: <i>Nat Biotechnol</i>, <b>39</b>:309-312
+  pmid: 33288905
+  type: 1
+
 - title: "Accurate SNV detection in single cells by transposon-based whole-genome amplification of complementary strands"
   authors: Xing D*, Tan L*, Chang C-H, <b>Li H</b><sup>&#8224;</sup>, Xie XS<sup>&#8224;</sup>
   year: 2021
@@ -20,14 +28,6 @@
   url: https://pubmed.ncbi.nlm.nih.gov/33526886/
   display: <i>Nat Methods</i>, <b>18</b>:170-175
   pmid: 33526886
-  type: 1
-
-- title: "Chromosome-scale haplotype-resolved assembly of human genomes"
-  authors: <b>Garg S</b><sup>&#8224;</sup>, Fungtammasan A, Carroll A, Chou M, Schmitt A, &hellip;, Chin C-S<sup>&#8224;</sup>, Church GM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
-  year: 2020
-  url: https://pubmed.ncbi.nlm.nih.gov/33288905/
-  display: <i>Nat Biotechnol</i>, <i>published online</i>
-  pmid: 33288905
   type: 1
 
 - title: "The design and construction of reference pangenome graphs with minigraph"
