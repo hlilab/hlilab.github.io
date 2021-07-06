@@ -10,21 +10,20 @@ permalink: /vacancies
 
 We are currently looking for PhD students and postdocs who are interested in
 developing high-performance algorithms for biological sequence analyses.
-Potential projects include but not limited to: graph representation of multiple
-genomes and its applications in calling genetic variations; assembly-based
-lossy compression of resequencing data and variant calling; practical deep
-learning models in cancer mutation calling; phasing with single-cell Hi-C data;
-non-homogeneous methods to construct phylogenetic trees. We are also open to
-other computational projects candidates would like to propose, as long as they
-fit our general direction.
+Potential projects include but not limited to: sequence alignment, de novo
+sequence assembly, graph representation of multiple genomes and its
+applications in calling genetic variations, practical deep learning models in
+bioinformatics and non-homogeneous methods to construct phylogenetic trees. We
+are also open to other computational projects candidates would like to propose,
+as long as they fit our general direction.
 
-To apply for a postdoc fellow, a qualified candicate is expected to have a
+To apply for a position, a qualified candicate is expected to have a
 strong background in at least one of the following fields: bioinformatics,
 computational biology, computer science, mathematics or physics. The applicants
 should be proficient in programming and have experiences in writing programs
 more than a few hundred lines of code. Familarity with a high-performance
-language such as C/C++ is preferred. If interested, please [email your
-CV](mailto:hli@jimmy.harvard.edu). Let us know your GitHub, GitLab or BitBucket
+language such as C/C++/Rust is a plus. If interested, please [email your
+CV](mailto:hli@ds.dfci.harvard.edu). Let us know your GitHub, GitLab or BitBucket
 account if you have one.
 
 A more complete job description can be found [under this link][jobad]. You can
