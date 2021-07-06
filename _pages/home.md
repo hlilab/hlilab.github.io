@@ -14,8 +14,8 @@ algorithms for sequence alignment (e.g. [bwa][bwa], [minimap2][mm2] and
 widely used formats (e.g. [SAM][sam] and [GFA][gfa]) and also work on data
 compression (e.g. [ropebwt2][rb2] and [bgt][bgt]), population genetics (e.g.
 [PSMC][psmc]) and single-cell sequencing (e.g. [lianti][lianti]). Some of our
-work is fundamental to the analysis of high-throughput sequence data and used
-by thousands of researchers across the world.
+tools are essential to the applications of high-throughput sequence data and
+among the most widely used in the field of bioinformatics.
 
 <!--
 In the past, we have analyzed single-cell sequence data to investigate mosaic
@@ -34,6 +34,9 @@ passionate PhD students and postdocs to join our team!**
 [dbmi]: http://dbmi.hms.harvard.edu
 [ds]: http://ds.dfci.harvard.edu
 [bwa]: https://github.com/lh3/bwa
+[lianti]: https://github.com/lh3/lianti
+[bgt]: https://github.com/lh3/bgt
+[rb2]: https://github.com/lh3/ropebwt2
 [mm2]: https://github.com/lh3/minimap2
 [mg]: https://github.com/lh3/minigraph
 [ma]: https://github.com/lh3/miniasm
