@@ -30,6 +30,7 @@
 
 - name: Li Song
   photo: default.png
-  info: Postdoc, transitioned Feburary 2022
+  info: Postdoc, joined Feburary 2022
   number_educ: 1
-  education1: PhD with <a href="http://florealab.org/">Liliana Florea</a>, <a href="https://www.jhu.edu/">JHU</a>, US
+  education1: Postdoc with <a href="https://liulab-dfci.github.io/">X. Shirley Liu</a>, <a href="https://www.dana-farber.org/">DFCI</a>, US
+  education2: PhD with <a href="http://florealab.org/">Liliana Florea</a>, <a href="https://www.jhu.edu/">JHU</a>, US
