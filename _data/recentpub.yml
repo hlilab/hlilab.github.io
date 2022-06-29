@@ -1,9 +1,79 @@
+- title: Identifying and correcting repeat-calling errors in nanopore sequencing of telomeres
+  authors: <b>Tan K-T</b>, Slevin MK, Meyerson M<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2022
+  url: https://www.biorxiv.org/content/10.1101/2022.01.11.475254v1
+  display: bioRxiv:2022.01.11.475254
+  type: 1
+
+- title: Fast sequence to graph alignment using the graph wavefront algorithm
+  authors: <b>Zhang H</b>, Wu S, Aluru S<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2022
+  url: https://arxiv.org/abs/2206.13574
+  display: arXiv:2206.13574
+  type: 1
+
+- title: "Metagenome assembly of high-fidelity long reads with hifiasm-meta"
+  authors: <b>Feng X</b>, <b>Cheng H</b>, Portik D, <b>Li H</b>
+  year: 2022
+  url: https://pubmed.ncbi.nlm.nih.gov/35534630/
+  display: <i>Nat Methods</i>, <b>19</b>:671-674
+  pmid: 35534630
+  type: 1
+
+- title: "Haplotype-resolved assembly of diploid individuals without parental data"
+  authors: <b>Cheng H</b>, Jarvis ED, Fedrigo O, Koepfli K-P, Urban L, Gemmell NJ, <b>Li H</b>
+  year: 2022
+  url: https://pubmed.ncbi.nlm.nih.gov/35332338/
+  display: <i>Nat Biotechnol</i>, <i>published online</i>
+  pmid: 35332338
+  type: 1
+
+- title: Real-time mapping of nanopore raw signals
+  authors: <b>Zhang H</b>, Li H, Jain C, <b>Cheng H</b>, Au KF<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>, Aluru S<sup>&#8224;</sup>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/34252938/
+  display: <i>Bioinformatics</i>, <b>37</b>:i477-i483
+  pmid: 34252938
+  type: 1
+
+- title: "CoLoRd: compressing long reads"
+  authors: Kokot M, Gudys, <b>Li H</b><sup>&#8224;</sup>, Deorowicz S<sup>&#8224;</sup>
+  year: 2022
+  url: https://pubmed.ncbi.nlm.nih.gov/35347321/
+  display: <i>Nat Methods</i>, <b>19</b>:441-444
+  pmid: 35347321
+  type: 1
+
+- title: "New strategies to improve minimap2 alignment accuracy"
+  authors: <b>Li H</b>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/34623391/
+  display: <i>Bioinformatics</i>, <b>37</b>:4572-4574
+  pmid: 34623391
+  type: 1
+
+- title: "Fast alignment and preprocessing of chromatin profiles with Chromap"
+  authors: <b>Zhang H</b>*, <b>Song L</b>*, Wang X, <b>Cheng H</b>, Wang C, Meyer C. A, Liu T, Tang M, Aluru S, Yue F, Liu XS<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/34772935/
+  display: <i>Nat Commun</i>, <b>12</b>:6566
+  pmid: 34772935
+  type: 1
+
 - title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
   authors: <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2021
   url: https://pubmed.ncbi.nlm.nih.gov/33681998/
-  display: <i>Mol Biol Evol</i>. <i>published online</i>
+  display: <i>Mol Biol Evol</i>, <b>38</b>:2958-2966
   pmid: 33681998
+  type: 1
+
+- title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
+  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/32966548/
+  display: <i>Bioinformatics</i>, <b>37</b>:1315-1316
+  pmid: 32966548
   type: 1
 
 - title: "Chromosome-scale haplotype-resolved assembly of human genomes"
@@ -36,14 +106,6 @@
   url: https://pubmed.ncbi.nlm.nih.gov/33066802/
   display: <i>Genome Biol</i>, <b>21</b>:265
   pmid: 33066802
-  type: 1
-
-- title: "Bedtk: Finding Interval Overlap with Implicit Interval Tree"
-  authors: <b>Li H</b><sup>&#8224;</sup>, <b>Rong J</b>
-  year: 2020
-  url: https://pubmed.ncbi.nlm.nih.gov/32966548/
-  display: <i>Bioinformatics</i>, <i>published online</i>
-  pmid: 32966548
   type: 1
 
 - title: "Fast and accurate long-read assembly with wtdbg2"

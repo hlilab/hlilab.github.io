@@ -70,7 +70,10 @@ permalink: /team/
 </div>
 {% endif %}
 
+<br/>
+
 # Past Members
 
-* Yaxin Yang. Undergraduate at University of Rochester &#11157; PhD candidate at UIUC.
-* Jiazhen Rong. DBMI master student &#11157; PhD candidate at UPenn.
+* Yaxin Yang (2021). Visiting undergraduate student in University of Rochester &#8594; PhD candidate in UIUC.
+* [Jiazhen (Jojo) Rong](https://www.linkedin.com/in/jiazhen-jojo-rong-3ab8b610b/) (2019-2021). DBMI master student &#8594; PhD candidate in UPenn.
+* [Haowen Zhang](https://zhanghaowen.com/) (2019-). Intern PhD student and collaborator in GaTech.
