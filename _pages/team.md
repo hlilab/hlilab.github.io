@@ -69,3 +69,8 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
+
+# Past Members
+
+* Yaxin Yang. Undergraduate at University of Rochester &#11157; PhD candidate at UIUC.
+* Jiazhen Rong. DBMI master student &#11157; PhD candidate at UPenn.

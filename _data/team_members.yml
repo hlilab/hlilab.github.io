@@ -1,7 +1,7 @@
 - name: Heng Li
   photo: hli.jpg
   info: |
-    Assistant Professor, started Oct 2018.
+    Associate Professor, started Oct 2018.
     Email: <a href="mailto:hli@jimmy.harvard.edu">hli@jimmy.harvard.edu</a>
   number_educ: 3
   education1: Postdoc with <a href="https://www.gen.cam.ac.uk/research-groups/durbin">Richard Durbin</a>, <a href="https://www.sanger.ac.uk">WTSI</a>, UK
@@ -34,3 +34,20 @@
   number_educ: 2
   education1: Postdoc with <a href="https://liulab-dfci.github.io/">X. Shirley Liu</a>, <a href="https://www.dana-farber.org/">DFCI</a>, US
   education2: PhD with <a href="http://florealab.org/">Liliana Florea</a>, <a href="https://www.jhu.edu/">JHU</a>, US
+
+- name: Kar-Tong Tan
+  photo: default.png
+  info: PhD candidate (co-mentored with Matthew Meyerson), joined Dec 2019
+  number_educ: 0
+
+- name: Yujie (York) Zhang
+  photo: default.png
+  info: HSPH master student, joined November 2021
+  number_educ: 1
+  education1: BSc, <a href="https://ucsd.edu/">UC San Diego</a>, US
+
+- name: Yujie Guo
+  photo: default.png
+  info: HMS master student, joined January 2022
+  number_educ: 1
+  education1: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
