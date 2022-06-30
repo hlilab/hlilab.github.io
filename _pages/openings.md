@@ -19,7 +19,8 @@ We are looking for a postdoc who is interested in bioinformatics and
 computational biology. Potential research areas include but not limited to
 
 * High-performance algorithms for sequence alignment and assembly
-* Algorithms for the construction, representation and application of pangenome data
+* Algorithms for the representation and application of pangenome data
+* Methods for the detection and the analysis of somatic or de novo mutations
 * Analysis of large-scale genomic data in the context of phylogenetics and population genetics
 
 We are also open to potential research projects proposed by the candidates.
