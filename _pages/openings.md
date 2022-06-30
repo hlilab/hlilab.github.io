@@ -8,25 +8,36 @@ permalink: /vacancies
 
 # Open positions
 
-We are currently looking for PhD students and postdocs who are interested in
-developing high-performance algorithms for biological sequence analyses.
-Potential projects include but not limited to: sequence alignment, de novo
-sequence assembly, graph representation of multiple genomes and its
-applications in calling genetic variations, practical deep learning models in
-bioinformatics and non-homogeneous methods to construct phylogenetic trees. We
-are also open to other computational projects candidates would like to propose,
-as long as they fit our general direction.
+If you are interested in the following positions, please [email your
+CV to us](mailto:hli@ds.dfci.harvard.edu). We are always open to potential
+research projects proposed by the applicants. Also email us your research
+plan if you have a project in your mind.
 
-To apply for a position, a qualified candicate is expected to have a
-strong background in at least one of the following fields: bioinformatics,
-computational biology, computer science, mathematics or physics. The applicants
-should be proficient in programming and have experiences in writing programs
-more than a few hundred lines of code. Familarity with a high-performance
-language such as C/C++/Rust is a plus. If interested, please [email your
-CV](mailto:hli@ds.dfci.harvard.edu). Let us know your GitHub, GitLab or BitBucket
-account if you have one.
+### Postdoc in computational biology
 
-A more complete job description can be found [under this link][jobad]. You can
-still contact me even if this link expires. We often have openings.
+We are looking for a postdoc who is interested in bioinformatics and
+computational biology. Potential research areas include but not limited to
 
-[jobad]: https://careers-dfci.icims.com/jobs/17500/postdoctoral-research-fellow-in-bioinformatics-computational-biology---heng-li-lab/job?mode=view
+* High-performance algorithms for sequence alignment and assembly
+* Algorithms for the construction, representation and application of pangenome data
+* Analysis of large-scale genomic data in the context of phylogenetics and population genetics
+
+We are also open to potential research projects proposed by the candidates.
+
+To apply for the position, a qualified candicate is expected to demonstrate a
+strong background in biology, computer science or mathematics and have past
+research experiences in bioinformatics and computational biology. The applicant
+should be proficient in programming. Familarity with a high-performance
+language such as C/C++/Rust may be a plus depending on the projects.
+
+### Staff scientist on algorithm development
+
+We are looking for a staff scientist who is interested in developing
+high-performance algorithms for sequence alignment, de novo assembly, pangenome
+representation, application of pangenome data structures or other projects the
+applicant may propose. The candidate will focus on the development of new
+algorithms but may maintain our existing tools sometimes.
+
+To apply for the position, a qualified candidate is expected to be proficient
+in a high-performance language such as C, C++ or Rust and have research
+experiences in bioinformatics and computational biology.

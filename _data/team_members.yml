@@ -10,27 +10,25 @@
 
 - name: Haoyu Cheng
   photo: default.png
-  info: |
-    Postdoc, started May 2019.
-    Email: <a href="mailto:hcheng@jimmy.harvard.edu">hcheng@jimmy.harvard.edu</a>
+  info: Postdoc, started May 2019.
   number_educ: 1
   education1: PhD with <a href="http://staff.ustc.edu.cn/~xuyun/">Yun Xu</a>, <a href="http://en.ustc.edu.cn/">UTSC</a>, China
 
 - name: Xiaowen Feng
   photo: default.png
-  info: Postdoc, started August 2019
+  info: Postdoc, started Aug 2019
   number_educ: 1
   education1: PhD with <a href="http://www.cuilab.cn/">Qinghua Cui</a>, <a href="http://sbms.bjmu.edu.cn/english/index.htm">School of Basic Medical Sciences, Peking University</a>, China
 
 - name: Justin Chu
   photo: default.png
-  info: Postdoc, started August 2020
+  info: Postdoc, started Aug 2020
   number_educ: 1
   education1: PhD with <a href="https://www.bcgsc.ca/people/inanc-birol">Inanc Birol</a>, <a href="https://www.bcgsc.ca">Canada's Michael Smith's Genome Science Center</a>, Canada
 
 - name: Li Song
   photo: default.png
-  info: Postdoc, joined Feburary 2022
+  info: Postdoc, joined Feb 2022
   number_educ: 2
   education1: Postdoc with <a href="https://liulab-dfci.github.io/">X. Shirley Liu</a>, <a href="https://www.dana-farber.org/">DFCI</a>, US
   education2: PhD with <a href="http://florealab.org/">Liliana Florea</a>, <a href="https://www.jhu.edu/">JHU</a>, US
@@ -42,12 +40,12 @@
 
 - name: Yujie (York) Zhang
   photo: default.png
-  info: HSPH master student, joined November 2021
+  info: HSPH master student, joined Nov 2021
   number_educ: 1
   education1: BSc, <a href="https://ucsd.edu/">UC San Diego</a>, US
 
 - name: Yujie Guo
   photo: default.png
-  info: HMS master student, joined January 2022
+  info: HMS master student, joined Jan 2022
   number_educ: 1
   education1: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US

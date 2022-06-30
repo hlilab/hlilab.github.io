@@ -1,15 +1,15 @@
-- title: Identifying and correcting repeat-calling errors in nanopore sequencing of telomeres
+- title: "Identifying and correcting repeat-calling errors in nanopore sequencing of telomeres"
   authors: <b>Tan K-T</b>, Slevin MK, Meyerson M<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2022
   url: https://www.biorxiv.org/content/10.1101/2022.01.11.475254v1
-  display: bioRxiv:2022.01.11.475254
+  display: bioRxiv:2022.01.11.475254 (preprint)
   type: 1
 
-- title: Fast sequence to graph alignment using the graph wavefront algorithm
+- title: "Fast sequence to graph alignment using the graph wavefront algorithm"
   authors: <b>Zhang H</b>, Wu S, Aluru S<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2022
   url: https://arxiv.org/abs/2206.13574
-  display: arXiv:2206.13574
+  display: arXiv:2206.13574 (preprint)
   type: 1
 
 - title: "Metagenome assembly of high-fidelity long reads with hifiasm-meta"
@@ -28,20 +28,20 @@
   pmid: 35332338
   type: 1
 
-- title: Real-time mapping of nanopore raw signals
-  authors: <b>Zhang H</b>, Li H, Jain C, <b>Cheng H</b>, Au KF<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>, Aluru S<sup>&#8224;</sup>
-  year: 2021
-  url: https://pubmed.ncbi.nlm.nih.gov/34252938/
-  display: <i>Bioinformatics</i>, <b>37</b>:i477-i483
-  pmid: 34252938
-  type: 1
-
 - title: "CoLoRd: compressing long reads"
   authors: Kokot M, Gudys, <b>Li H</b><sup>&#8224;</sup>, Deorowicz S<sup>&#8224;</sup>
   year: 2022
   url: https://pubmed.ncbi.nlm.nih.gov/35347321/
   display: <i>Nat Methods</i>, <b>19</b>:441-444
   pmid: 35347321
+  type: 1
+
+- title: "Fast alignment and preprocessing of chromatin profiles with Chromap"
+  authors: <b>Zhang H</b>*, <b>Song L</b>*, Wang X, <b>Cheng H</b>, Wang C, Meyer C. A, Liu T, Tang M, Aluru S, Yue F, Liu XS<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2021
+  url: https://pubmed.ncbi.nlm.nih.gov/34772935/
+  display: <i>Nat Commun</i>, <b>12</b>:6566
+  pmid: 34772935
   type: 1
 
 - title: "New strategies to improve minimap2 alignment accuracy"
@@ -52,12 +52,12 @@
   pmid: 34623391
   type: 1
 
-- title: "Fast alignment and preprocessing of chromatin profiles with Chromap"
-  authors: <b>Zhang H</b>*, <b>Song L</b>*, Wang X, <b>Cheng H</b>, Wang C, Meyer C. A, Liu T, Tang M, Aluru S, Yue F, Liu XS<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+- title: Real-time mapping of nanopore raw signals
+  authors: <b>Zhang H</b>, Li H, Jain C, <b>Cheng H</b>, Au KF<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>, Aluru S<sup>&#8224;</sup>
   year: 2021
-  url: https://pubmed.ncbi.nlm.nih.gov/34772935/
-  display: <i>Nat Commun</i>, <b>12</b>:6566
-  pmid: 34772935
+  url: https://pubmed.ncbi.nlm.nih.gov/34252938/
+  display: <i>Bioinformatics</i>, <b>37</b>:i477-i483
+  pmid: 34252938
   type: 1
 
 - title: "Higher rates of processed pseudogene acquisition in humans and three great apes revealed by long read assemblies"
