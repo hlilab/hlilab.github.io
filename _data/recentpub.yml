@@ -1,19 +1,20 @@
-- title: "Identifying and correcting repeat-calling errors in nanopore sequencing of telomeres"
-  authors: <b>Tan K-T</b>, Slevin MK, Meyerson M<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
-  year: 2022
-  url: https://www.biorxiv.org/content/10.1101/2022.01.11.475254v1
-  display: bioRxiv:2022.01.11.475254 (preprint)
-  type: 1
-
 - title: "Fast sequence to graph alignment using the graph wavefront algorithm"
-  authors: <b>Zhang H</b>, Wu S, Aluru S<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  authors: <b>Zhang H</b>, <b>Wu S</b>, Aluru S<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2022
   url: https://arxiv.org/abs/2206.13574
   display: arXiv:2206.13574 (preprint)
   type: 1
 
+- title: "Identifying and correcting repeat-calling errors in nanopore sequencing of telomeres"
+  authors: <b>Tan K-T</b>, Slevin MK, Meyerson M<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2022
+  url: https://pubmed.ncbi.nlm.nih.gov/36028900/
+  display: <i>Genome Biol.</i>, <b>23</b>:180
+  pmid: 36028900
+  type: 1
+
 - title: "Metagenome assembly of high-fidelity long reads with hifiasm-meta"
-  authors: <b>Feng X</b>, <b>Cheng H</b>, Portik D, <b>Li H</b>
+  authors: <b>Feng X</b>, <b>Cheng H</b>, Portik D, <b>Li H</b><sup>&#8224;</sup>
   year: 2022
   url: https://pubmed.ncbi.nlm.nih.gov/35534630/
   display: <i>Nat Methods</i>, <b>19</b>:671-674
@@ -21,7 +22,7 @@
   type: 1
 
 - title: "Haplotype-resolved assembly of diploid individuals without parental data"
-  authors: <b>Cheng H</b>, Jarvis ED, Fedrigo O, Koepfli K-P, Urban L, Gemmell NJ, <b>Li H</b>
+  authors: <b>Cheng H</b>, Jarvis ED, Fedrigo O, Koepfli K-P, Urban L, Gemmell NJ, <b>Li H</b><sup>&#8224;</sup>
   year: 2022
   url: https://pubmed.ncbi.nlm.nih.gov/35332338/
   display: <i>Nat Biotechnol</i>, <i>published online</i>
