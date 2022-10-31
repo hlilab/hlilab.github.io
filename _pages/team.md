@@ -74,6 +74,7 @@ permalink: /team/
 
 # Past Members
 
+* [Li Song](https://www.linkedin.com/in/li-song-81201329) (2021-2022). Postdoc &#8594; Assistant professor in Dartmouth College
 * [Haowen Zhang](https://zhanghaowen.com/) (2019-2022). Intern PhD student and collaborator in GaTech &#8594; Software engineer at Google.
 * Yaxin Yang (2021). Visiting undergraduate student in University of Rochester &#8594; PhD candidate in UIUC.
 * [Jiazhen (Jojo) Rong](https://www.linkedin.com/in/jiazhen-jojo-rong-3ab8b610b/) (2019-2021). DBMI master student &#8594; PhD candidate in UPenn.

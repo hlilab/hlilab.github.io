@@ -6,7 +6,7 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Past positions
 
 If you are interested in the following positions, please [email your
 CV to us](mailto:hli@ds.dfci.harvard.edu). We are always open to potential
