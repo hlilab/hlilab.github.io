@@ -48,7 +48,7 @@
   photo: default.png
   info: Research associate, joined Jan 2022
   number_educ: 2
-  education1: MSc, Harvard Medical School, US
+  education1: <a href="https://dbmi.hms.harvard.edu/education/master-biomedical-informatics">MSc</a>, <a href="https://dbmi.hms.harvard.edu/">Harvard Medical School</a>, US
   education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
 
 - name: Yidan Ma
@@ -61,5 +61,5 @@
   photo: default.png
   info: Visting student, joined Feb 2023
   number_educ: 1
-  education: PhD candidate with <a href="https://santambrogio.faculty.polimi.it/">Marco Santambrogio</a> at Politecnico di Milano, Italy
+  education1: PhD candidate with <a href="https://santambrogio.faculty.polimi.it/">Marco Santambrogio</a> at Politecnico di Milano, Italy
 
