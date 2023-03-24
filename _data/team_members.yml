@@ -8,6 +8,13 @@
   education2: PhD with <a href="http://power.itp.ac.cn/~zheng/">Wei-Mou Zheng</a>, <a href="http://english.itp.cas.cn">ITP</a>, China
   education3: BSc, <a href="https://www.nju.edu.cn/EN/">Nanjing University</a>, China
 
+- name: Ying Zhou
+  photo: default.png
+  info: Staff scientist, joined Oct 2022
+  number_educ: 2
+  education1: Postdoc with <a href="https://research.fredhutch.org/kooperberg/en/team-members.html">Charles Kooperberg</a> at <a href="https://www.fredhutch.org/en.html">Fred Hutch</a>, US
+  education2: Postdoc with <a href="https://sites.uw.edu/sguy/">Sharon Browning</a>, <a href="https://www.washington.edu">UW</a>, US
+
 - name: Haoyu Cheng
   photo: default.png
   info: Postdoc, started May 2019.
@@ -26,23 +33,16 @@
   number_educ: 1
   education1: PhD with <a href="https://www.bcgsc.ca/people/inanc-birol">Inanc Birol</a>, <a href="https://www.bcgsc.ca">Canada's Michael Smith's Genome Science Center</a>, Canada
 
-- name: Ying Zhou
+- name: Neng Huang
   photo: default.png
-  info: Staff scientist, joined Oct 2022
-  number_educ: 2
-  education1: Postdoc with <a href="https://research.fredhutch.org/kooperberg/en/team-members.html">Charles Kooperberg</a> at <a href="https://www.fredhutch.org/en.html">Fred Hutch</a>, US
-  education2: Postdoc with <a href="https://sites.uw.edu/sguy/">Sharon Browning</a>, <a href="https://www.washington.edu">UW</a>, US
+  info: Postdoc, started March 2023
+  number_educ: 1
+  education1: PhD with <a href="http://bioinformatics.csu.edu.cn/JXWang/index.html">Jianxin Wang</a>, <a href="https://en.csu.edu.cn/">CSU</a>, China
 
 - name: Kar-Tong Tan
   photo: default.png
   info: PhD candidate (co-mentored with Matthew Meyerson), joined Dec 2019
   number_educ: 0
-
-- name: Yujie (York) Zhang
-  photo: default.png
-  info: HSPH master student, joined Nov 2021
-  number_educ: 1
-  education1: BSc, <a href="https://ucsd.edu/">UC San Diego</a>, US
 
 - name: Yujie Guo
   photo: default.png
@@ -50,6 +50,12 @@
   number_educ: 2
   education1: <a href="https://dbmi.hms.harvard.edu/education/master-biomedical-informatics">MSc</a>, <a href="https://dbmi.hms.harvard.edu/">Harvard Medical School</a>, US
   education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
+
+- name: Yujie (York) Zhang
+  photo: default.png
+  info: HSPH master student, joined Nov 2021
+  number_educ: 1
+  education1: BSc, <a href="https://ucsd.edu/">UC San Diego</a>, US
 
 - name: Yidan Ma
   photo: default.png
