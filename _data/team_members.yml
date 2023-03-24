@@ -46,13 +46,20 @@
 
 - name: Yujie Guo
   photo: default.png
-  info: HMS master student, joined Jan 2022
-  number_educ: 1
-  education1: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
+  info: Research associate, joined Jan 2022
+  number_educ: 2
+  education1: MSc, Harvard Medical School, US
+  education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
 
 - name: Yidan Ma
   photo: default.png
   info: HSPH master student, joined Oct 2022
   number_educ: 1
   education1: BSc, <a href="https://www.ucdavis.edu/">UC Davis</a>, US
+
+- name: Alberto Zeni
+  photo: default.png
+  info: Visting student, joined Feb 2023
+  number_educ: 1
+  education: PhD candidate with <a href="https://santambrogio.faculty.polimi.it/">Marco Santambrogio</a> at Politecnico di Milano, Italy
 
