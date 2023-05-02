@@ -3,6 +3,7 @@
   year: 2023
   url: https://pubmed.ncbi.nlm.nih.gov/36864624/
   display: <i>Bioinformatics</i>, <b>39</b>:btad097
+  pmid: 36864624
   type: 2
 
 - title: "Protein-to-genome alignment with miniprot"
@@ -10,6 +11,7 @@
   year: 2023
   url: https://pubmed.ncbi.nlm.nih.gov/36648328/
   display: <i>Bioinformatics</i>, <b>39</b>:btad014
+  pmid: 36648328
   type: 1
 
 - title: "Fast sequence to graph alignment using the graph wavefront algorithm"
