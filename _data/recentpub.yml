@@ -1,3 +1,17 @@
+- title: "AGC: compact representation of assembled genomes with fast queries and updates"
+  authors: Deorowicz S<sup>&#8224;</sup>, Danek A, <b>Li H</b><sup>&#8224;</sup>
+  year: 2023
+  url: https://pubmed.ncbi.nlm.nih.gov/36864624/
+  display: <i>Bioinformatics</i>, <b>39</b>:btad097
+  type: 2
+
+- title: "Protein-to-genome alignment with miniprot"
+  authors: <b>Li H</b>
+  year: 2023
+  url: https://pubmed.ncbi.nlm.nih.gov/36648328/
+  display: <i>Bioinformatics</i>, <b>39</b>:btad014
+  type: 1
+
 - title: "Fast sequence to graph alignment using the graph wavefront algorithm"
   authors: <b>Zhang H</b>, <b>Wu S</b>, Aluru S<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2022
