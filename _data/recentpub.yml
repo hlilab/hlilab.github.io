@@ -1,8 +1,17 @@
 - title: "Efficient and accurate KIR and HLA genotyping with next-generation sequencing data"
   authors: <b>Song L</b>, Bai G, Liu XS, Li B<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2023
-  url: https://www.biorxiv.org/content/10.1101/2022.10.26.513955v1
-  display: <i>accepted</i>
+  url: https://pubmed.ncbi.nlm.nih.gov/37169596/
+  display: <i>Genome Res</i>
+  pmid: 37169596
+  type: 1
+
+- title: "A draft human pangenome reference"
+  authors: Liao W-W*, Asri M*, Ebler J*, &hellip;, Garrison E<sup>&#8224;</sup>, Marschall T<sup>&#8224;</sup>, Hall IM<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>, Paten B<sup>&#8224;</sup>
+  year: 2023
+  url: https://pubmed.ncbi.nlm.nih.gov/37165242/
+  display: <i>Nature</i>, <b>617</b>:312-324
+  pmid: 37165242
   type: 1
 
 - title: "AGC: compact representation of assembled genomes with fast queries and updates"
