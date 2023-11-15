@@ -74,6 +74,8 @@ permalink: /team/
 
 # Past Members
 
+* [Yidan Ma](https://www.linkedin.com/in/yidanma-51/) (2022-2023). HSPH master student.
+* [Alberto Zeni](https://www.linkedin.com/in/alberto-zeni/) (2023). Visiting student.
 * [Yujie (York) Zhang](https://yuz682.github.io/) (2021-2023). HSPH master student &#8594; PhD student in UCSF
 * [Li Song](https://www.linkedin.com/in/li-song-81201329) (2021-2022). Postdoc &#8594; Assistant professor in Dartmouth College
 * [Haowen Zhang](https://zhanghaowen.com/) (2019-2022). Intern PhD student and collaborator in GaTech &#8594; Software engineer at Google
