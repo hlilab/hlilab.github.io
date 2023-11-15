@@ -41,8 +41,9 @@
 
 - name: Kar-Tong Tan
   photo: default.png
-  info: PhD candidate (co-mentored with Matthew Meyerson), joined Dec 2019
-  number_educ: 0
+  info: Postdoc, started June 2023
+  number_educ: 1
+  education1: PhD with <a href="https://www.dana-farber.org/find-a-doctor/matthew-l-meyerson/">Matthew Meyerson</a> and Heng Li, <a href="https://www.dana-farber.org/">Dana-Farber</a>, US
 
 - name: Yujie Guo
   photo: default.png
@@ -50,16 +51,3 @@
   number_educ: 2
   education1: <a href="https://dbmi.hms.harvard.edu/education/master-biomedical-informatics">MSc</a>, <a href="https://dbmi.hms.harvard.edu/">Harvard Medical School</a>, US
   education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
-
-- name: Yidan Ma
-  photo: default.png
-  info: HSPH master student, joined Oct 2022
-  number_educ: 1
-  education1: BSc, <a href="https://www.ucdavis.edu/">UC Davis</a>, US
-
-- name: Alberto Zeni
-  photo: default.png
-  info: Visting student, joined Feb 2023
-  number_educ: 1
-  education1: PhD candidate with <a href="https://santambrogio.faculty.polimi.it/">Marco Santambrogio</a> at Politecnico di Milano, Italy
-

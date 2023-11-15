@@ -1,3 +1,27 @@
+- title: "De novo reconstruction of satellite repeat units from sequence data"
+  authors: <b>Zhang Y</b>, <b>Chu J</b>, <b>Cheng H</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2023
+  url: https://pubmed.ncbi.nlm.nih.gov/37918962/
+  display: <i>Genome Res</i>
+  pmid: 37918962
+  type: 1
+
+- title: "Evaluation of haplotype-aware long-read error correction with hifieval"
+  authors: <b>Guo Y</b>, <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2023
+  url: https://pubmed.ncbi.nlm.nih.gov/37851384/
+  display: <i>Bioinformatics</i>
+  pmid: 37851384
+  type: 1
+
+- title: "Compleasm: a faster and more accurate reimplementation of BUSCO"
+  authors: <b>Huang N</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2023
+  url: https://pubmed.ncbi.nlm.nih.gov/37758247/
+  display: <i>Bioinformatics</i>
+  pmid: 37758247
+  type: 1
+
 - title: "Efficient and accurate KIR and HLA genotyping with next-generation sequencing data"
   authors: <b>Song L</b>, Bai G, Liu XS, Li B<sup>&#8224;</sup>, <b>Li H</b><sup>&#8224;</sup>
   year: 2023
