@@ -74,9 +74,10 @@ permalink: /team/
 
 # Past Members
 
-* [Yidan Ma](https://www.linkedin.com/in/yidanma-51/) (2022-2023). HSPH master student.
+* [Kar-Tong Tan](https://www.linkedin.com/in/kar-tong-tan-b843aa1b8/) (2020-2024). Harvard PhD student (co-mentored) &#8594; Postdoc &#8594; Assistant professor in [NUS](https://nus.edu.sg/)
+* [Yidan Ma](https://www.linkedin.com/in/yidanma-51/) (2022-2023). HSPH master student &#8594; Analysis Group
 * [Alberto Zeni](https://www.linkedin.com/in/alberto-zeni/) (2023). Visiting student.
-* [Yujie (York) Zhang](https://yuz682.github.io/) (2021-2023). HSPH master student &#8594; PhD student in UCSF
+* [Yujie (York) Zhang](https://www.linkedin.com/in/yujie-zhang-5a0633152/) (2021-2023). HSPH master student &#8594; PhD student in UCSF
 * [Li Song](https://www.linkedin.com/in/li-song-81201329) (2021-2022). Postdoc &#8594; Assistant professor in Dartmouth College
 * [Haowen Zhang](https://zhanghaowen.com/) (2019-2022). Intern PhD student and collaborator in GaTech &#8594; Software engineer at Google
 * Yaxin Yang (2021). Visiting undergraduate student in University of Rochester &#8594; PhD candidate in UIUC
