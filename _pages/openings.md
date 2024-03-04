@@ -31,6 +31,7 @@ research experiences in bioinformatics and computational biology. The applicant
 should be proficient in programming. Familarity with a high-performance
 language such as C/C++/Rust may be a plus depending on the projects.
 
+<!--
 ### Staff scientist on algorithm development
 
 We are looking for a staff scientist who is interested in developing
@@ -42,3 +43,4 @@ algorithms but may maintain our existing tools sometimes.
 To apply for the position, a qualified candidate is expected to be proficient
 in a high-performance language such as C, C++ or Rust and have research
 experiences in bioinformatics and computational biology.
+-->
