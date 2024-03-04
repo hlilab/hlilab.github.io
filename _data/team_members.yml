@@ -27,12 +27,6 @@
   number_educ: 1
   education1: PhD with <a href="http://www.cuilab.cn/">Qinghua Cui</a>, <a href="http://sbms.bjmu.edu.cn/english/index.htm">School of Basic Medical Sciences, Peking University</a>, China
 
-- name: Justin Chu
-  photo: default.png
-  info: Postdoc, started Aug 2020
-  number_educ: 1
-  education1: PhD with <a href="https://www.bcgsc.ca/people/inanc-birol">Inanc Birol</a>, <a href="https://www.bcgsc.ca">Canada's Michael Smith's Genome Science Center</a>, Canada
-
 - name: Neng Huang
   photo: default.png
   info: Postdoc, started March 2023
@@ -51,3 +45,9 @@
   info: HMS master student, started Jan 2024
   number_educ: 1
   education1: BSc, UCSD, US
+
+- name: Jingqing (Jason) Hu
+  photo: default.png
+  info: HMS master student, started Feb 2024
+  number_educ: 1
+  education1: BSc, Boston College, US
