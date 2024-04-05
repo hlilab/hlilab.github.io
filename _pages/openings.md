@@ -6,8 +6,10 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Past positions
+Please [contact us](mailto:hli@ds.dfci.harvard.edu) if you are interested in
+our group.
 
+<!--
 If you are interested in the following positions, please [email your
 CV to us](mailto:hli@ds.dfci.harvard.edu). We are always open to potential
 research projects proposed by the applicants. Also email us your research
@@ -31,7 +33,6 @@ research experiences in bioinformatics and computational biology. The applicant
 should be proficient in programming. Familarity with a high-performance
 language such as C/C++/Rust may be a plus depending on the projects.
 
-<!--
 ### Staff scientist on algorithm development
 
 We are looking for a staff scientist who is interested in developing

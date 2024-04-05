@@ -76,9 +76,9 @@ permalink: /team/
 
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc
 * [Kar-Tong Tan](https://www.linkedin.com/in/kar-tong-tan-b843aa1b8/) (2020-2024). Harvard PhD student (co-mentored) &#8594; postdoc &#8594; Assistant professor in [NUS](https://nus.edu.sg/)
-* [Daniel Liu](https://liudaniel.com/) (2023). Intern undergraduate student in UCLA &#8594;&#8594; [Anthropic](https://www.anthropic.com/)
+* [Daniel Liu](https://liudaniel.com/) (2023). Intern undergraduate student in UCLA &#8594;&#8594; joining [Anthropic](https://www.anthropic.com/)
 * [Yidan Ma](https://www.linkedin.com/in/yidanma-51/) (2022-2023). HSPH master student &#8594; [Analysis Group Boston](https://www.analysisgroup.com/about/locations/boston/)
-* [Alberto Zeni](https://www.linkedin.com/in/alberto-zeni/) (2023). Visiting student
+* [Alberto Zeni](https://www.linkedin.com/in/alberto-zeni/) (2023). Visiting student &#8594; collaborator
 * [Yujie (York) Zhang](https://www.linkedin.com/in/yujie-zhang-5a0633152/) (2021-2023). HSPH master student &#8594; PhD student in UCSF
 * [Li Song](https://www.linkedin.com/in/li-song-81201329) (2021-2022). Postdoc &#8594; Assistant professor in Dartmouth College
 * [Haowen Zhang](https://zhanghaowen.com/) (2019-2022). Intern PhD student in GaTech &#8594; collaborator &#8594; Software engineer at Google
