@@ -15,7 +15,8 @@ widely used formats (e.g. [SAM][sam] and [GFA][gfa]) and also work on data
 compression (e.g. [ropebwt2][rb2] and [bgt][bgt]), population genetics (e.g.
 [PSMC][psmc]) and single-cell sequencing (e.g. [lianti][lianti]). Some of our
 tools are essential to the applications of high-throughput sequence data and
-among the most widely used in the field of bioinformatics.
+among the most widely used in the field of bioinformatics. Please see our
+[GitHub portal][github] for more tools we developed in recent years.
 
 <!--
 In the past, we have analyzed single-cell sequence data to investigate mosaic
@@ -23,13 +24,15 @@ between cells. We are also interested in questions related to evolution, from
 species evolution over hundreds of millions of years, to human evolution in the
 past hundreds of thousands of years, all the way down to cell evolution in
 hundreds of cell cycles.
-For details, please see the [Research](research) page.
 -->
 
 We are part of the [department of Biomedical Informatics][dbmi] of Harvard
-Medical School and the [department of Data Sciences][ds] of Dana-Farber Cancer
-Institute. We are an established young lab and **[are looking for](vacancies)
+Medical School and the [department of Data Science][ds] of Dana-Farber Cancer
+Institute.
+<!--
+We are an established young lab and **[are looking for](vacancies)
 passionate PhD students and postdocs to join our team!**
+-->
 
 [dbmi]: http://dbmi.hms.harvard.edu
 [ds]: http://ds.dfci.harvard.edu
@@ -46,3 +49,4 @@ passionate PhD students and postdocs to join our team!**
 [sam]: https://en.wikipedia.org/wiki/SAM_(file_format)
 [gfa]: http://gfa-spec.github.io/GFA-spec/GFA1.html
 [psmc]: https://github.com/lh3/psmc
+[github]: https://github.com/hlilab
