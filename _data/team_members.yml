@@ -21,12 +21,6 @@
   number_educ: 1
   education1: PhD with <a href="http://staff.ustc.edu.cn/~xuyun/">Yun Xu</a>, <a href="http://en.ustc.edu.cn/">UTSC</a>, China
 
-- name: Xiaowen Feng
-  photo: default.png
-  info: Postdoc, started Aug 2019
-  number_educ: 1
-  education1: PhD with <a href="http://www.cuilab.cn/">Qinghua Cui</a>, <a href="http://sbms.bjmu.edu.cn/english/index.htm">School of Basic Medical Sciences, Peking University</a>, China
-
 - name: Neng Huang
   photo: default.png
   info: Postdoc, started March 2023
@@ -51,3 +45,9 @@
   info: HMS master student, started Feb 2024
   number_educ: 1
   education1: BSc, Boston College, US
+
+#- name: Xiaowen Feng
+#  photo: default.png
+#  info: Postdoc, started Aug 2019
+#  number_educ: 1
+#  education1: PhD with <a href="http://www.cuilab.cn/">Qinghua Cui</a>, <a href="http://sbms.bjmu.edu.cn/english/index.htm">School of Basic Medical Sciences, Peking University</a>, China

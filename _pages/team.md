@@ -74,6 +74,7 @@ permalink: /team/
 
 # Past Members
 
+* [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc
 * [Kar-Tong Tan](https://www.linkedin.com/in/kar-tong-tan-b843aa1b8/) (2020-2024). Harvard PhD student (co-mentored) &#8594; postdoc &#8594; Assistant professor in [NUS](https://nus.edu.sg/)
 * [Daniel Liu](https://liudaniel.com/) (2023). Intern undergraduate student in UCLA &#8594;&#8594; joining [Anthropic](https://www.anthropic.com/)
