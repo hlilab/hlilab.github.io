@@ -6,6 +6,14 @@
   pmid: 38839374
   type: 1
 
+- title: "ntsm: an alignment-free, ultra-low-coverage, sequencing technology agnostic, intraspecies sample comparison tool for sample swap detection"
+  authors: <b>Chu J</b>, <b>Rong J</b>, <b>Feng X</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2024
+  url: https://pubmed.ncbi.nlm.nih.gov/38832466/
+  display: <i>Gigascience</i>, <b>13</b>:giae024
+  pmid: 38832466
+  type: 1
+
 - title: "Scalable telomere-to-telomere assembly for diploid and polyploid genomes with double graph"
   authors: <b>Cheng H</b>, Asri M, Lucas J, Koren S, <b>Li H</b><sup>&#8224;</sup>
   year: 2024
