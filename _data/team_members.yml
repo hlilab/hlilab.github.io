@@ -15,11 +15,12 @@
   education1: Postdoc with <a href="https://research.fredhutch.org/kooperberg/en/team-members.html">Charles Kooperberg</a> at <a href="https://www.fredhutch.org/en.html">Fred Hutch</a>, US
   education2: Postdoc with <a href="https://sites.uw.edu/sguy/">Sharon Browning</a>, <a href="https://www.washington.edu">UW</a>, US
 
-- name: Haoyu Cheng
+- name: Yan Gao
   photo: default.png
-  info: Postdoc, started May 2019.
-  number_educ: 1
-  education1: PhD with <a href="http://staff.ustc.edu.cn/~xuyun/">Yun Xu</a>, <a href="http://en.ustc.edu.cn/">UTSC</a>, China
+  info: Staff scientist, joined July 2024
+  number_educ: 2
+  education1: Postdoc & scientist with <a href="https://xinglab.org/people/yi-xing/">Yi Xing</a>, UPenn, US
+  education2: PhD with <a href="https://scholar.google.com/citations?user=uqKkZiQAAAAJ&hl=en">Yadong Wang</a>, <a href="http://en.hit.edu.cn/">HIT</a>, China
 
 - name: Neng Huang
   photo: default.png
@@ -51,3 +52,9 @@
 #  info: Postdoc, started Aug 2019
 #  number_educ: 1
 #  education1: PhD with <a href="http://www.cuilab.cn/">Qinghua Cui</a>, <a href="http://sbms.bjmu.edu.cn/english/index.htm">School of Basic Medical Sciences, Peking University</a>, China
+
+#- name: Haoyu Cheng
+#  photo: default.png
+#  info: Postdoc, started May 2019.
+#  number_educ: 1
+#  education1: PhD with <a href="http://staff.ustc.edu.cn/~xuyun/">Yun Xu</a>, <a href="http://en.ustc.edu.cn/">UTSC</a>, China

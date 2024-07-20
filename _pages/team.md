@@ -74,6 +74,7 @@ permalink: /team/
 
 # Past Members
 
+* [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale
 * [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc
 * [Kar-Tong Tan](https://www.linkedin.com/in/kar-tong-tan-b843aa1b8/) (2020-2024). Harvard PhD student (co-mentored) &#8594; postdoc &#8594; Assistant professor in [NUS](https://nus.edu.sg/)
