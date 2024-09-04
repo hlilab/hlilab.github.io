@@ -28,9 +28,21 @@
   number_educ: 1
   education1: PhD with <a href="http://bioinformatics.csu.edu.cn/JXWang/index.html">Jianxin Wang</a>, <a href="https://en.csu.edu.cn/">CSU</a>, China
 
+- name: Jim Shaw
+  photo: default.png
+  info: Postdoc, started September 2024
+  number_educ: 1
+  education1: PhD with <a href="https://cbd.cmu.edu/people/yu.html">Yun William Yu</a>, <a href="https://www.utoronto.ca/>U Toronto</a>, Canada
+
+- name: Jakob Heinz
+  photo: default.png
+  info: PhD student (co-mentored with <a href="https://meyersonlab.dana-farber.org/>Matthew Meyerson</a>), joined August 2024
+  number_educ: 1
+  education1: BSc, <a href="https://www.jhu.edu/>JHU</a>, US
+
 - name: Megan Khiet Le
   photo: default.png
-  info: PhD student (co-mentored with <a href="https://people.csail.mit.edu/bab/">Bonnie Berger</a>)
+  info: PhD student (co-mentored with <a href="https://people.csail.mit.edu/bab/">Bonnie Berger</a>), joined June 2024
   number_educ: 1
   education1: BSc/MSc with <a href="https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/4263-narasimhan-vagheesh?Itemid=1224">Vagheesh Narasimhan</a>, UT Austin, US
 
