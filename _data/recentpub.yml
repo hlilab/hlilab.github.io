@@ -1,3 +1,27 @@
+- title: "BWT construction and search at the terabase scale"
+  authors: <b>Li H</b>
+  year: 2024
+  url: https://pubmed.ncbi.nlm.nih.gov/39607778/
+  display: <i>Bioinformatics</i>
+  pmid: 39607778
+  type: 1
+
+- title: "Exploring gene content with pangene graphs"
+  authors: <b>Li H</b>
+  year: 2024
+  url: https://pubmed.ncbi.nlm.nih.gov/39041615/
+  display: <i>Bioinformatics</i>
+  pmid: 39041615
+  type: 1
+
+- title: "Neotelomeres and telomere-spanning chromosomal arm fusions in cancer genomes revealed by long-read sequencing"
+  authors: <b>Tan K-T</b>, Slevin MK, Leibowitz ML, Garrity-Janger M, Shan J, <b>Li H</b><sup>&#8224;</sup>, Meyerson M<sup>&#8224;</sup>
+  year: 2024
+  url: https://pubmed.ncbi.nlm.nih.gov/38917803/
+  display: <i>Cell Genom.</i>
+  pmid: 38917803
+  type: 1
+
 - title: "Full resolution HLA and KIR gene annotations for human genome assemblies"
   authors: <b>Zhou Y</b>, Song L, <b>Li H</b><sup>&#8224;</sup>
   year: 2024
