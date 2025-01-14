@@ -17,10 +17,10 @@ permalink: /publications/
 <li>
 {{ publi.authors }} ({{ publi.year }}) {{ publi.title }}. <a href="{{ publi.url }}">{{ publi.display }}</a>.
 [PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/{{ publi.pmid }}">{{ publi.pmid }}</a>]
+<span style="display:inline-block;" class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-style="small_rectangle"></span>
 <!--
-<span class="__dimensions_badge_embed__" data-pmid="{{ publi.pmid }}" data-style="small_rectangle"></span>
--->
 [<a href="https://badge.dimensions.ai/details/pmid/{{ publi.pmid }}">Citations</a>]
+-->
 </li>
 {% endfor %}
 </ul>
