@@ -34,6 +34,12 @@
   number_educ: 1
   education1: PhD with <a href="https://cbd.cmu.edu/people/yu.html">Yun William Yu</a>, <a href="https://www.utoronto.ca/">U Toronto</a>, Canada
 
+- name: Maximillian Marin
+  photo: default.png
+  info: Postdoc (co-mentored with <a href="https://dbmi.hms.harvard.edu/people/maha-farhat">Maha Farhat</a>), started September 2024
+  number_educ: 1
+  education1: PhD with <a href="https://dbmi.hms.harvard.edu/people/maha-farhat">Maha Farhat</a>, Harvard, US
+
 - name: Jakob Heinz
   photo: default.png
   info: PhD student (co-mentored with <a href="https://meyersonlab.dana-farber.org/">Matthew Meyerson</a>), joined August 2024
@@ -46,12 +52,12 @@
   number_educ: 1
   education1: BSc/MSc with <a href="https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/4263-narasimhan-vagheesh?Itemid=1224">Vagheesh Narasimhan</a>, UT Austin, US
 
-- name: Yujie Guo
-  photo: default.png
-  info: Research associate, joined Jan 2022
-  number_educ: 2
-  education1: <a href="https://dbmi.hms.harvard.edu/education/master-biomedical-informatics">MSc</a>, <a href="https://dbmi.hms.harvard.edu/">Harvard Medical School</a>, US
-  education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
+#- name: Yujie Guo
+#  photo: default.png
+#  info: Research associate, joined Jan 2022
+#  number_educ: 2
+#  education1: <a href="https://dbmi.hms.harvard.edu/education/master-biomedical-informatics">MSc</a>, <a href="https://dbmi.hms.harvard.edu/">Harvard Medical School</a>, US
+#  education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
 
 - name: Siying (Avon) Yang
   photo: default.png

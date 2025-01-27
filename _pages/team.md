@@ -74,6 +74,7 @@ permalink: /team/
 
 # Past Members
 
+* [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD candidate in Harvard BIG (still collaborating)
 * [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale
 * [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc
