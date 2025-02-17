@@ -12,7 +12,7 @@ Our lab developed several alignment and assembly algorithms critical to high-thr
 These include [samtools][sw-samtools], [BWA][sw-bwa], [minimap2][sw-minimap2] and [hifiasm][sw-hifiasm],
 with each cited for 1000+ times *per year*.
 We also explore a variety of algorithms related to variant calling, gene annotation, pangenome analysis, full-text indexing and evolution.
-Most of our software packages work years after their initial publications and are often well received.
+Most of our tools work years after their initial publications and are often well received.
 
 ### Software
 
@@ -27,8 +27,8 @@ Most of our software packages work years after their initial publications and ar
 * [miniprot][sw-miniprot]: protein-to-genome alignment allowing splicing and frameshift, published in [Li (2023)][pub-miniprot].
 * [bedtk][sw-bedtk] and [cgranges][sw-cgr]: a fast toolkit and library for working with BED files, published in [Li and Rong (2020)][pub-bedtk].
 * [yak][sw-yak]: k-mer counting and assembly evaluation, developed for [Cheng et al (2021)][pub-ha1].
-* [gwfa][sw-gwfa]: graph wavefront alignment algorithm with edit distance, published in [Zhang et al (2022)][pub-gwfa].
-  Incorporated into gfatools and used by minigraph.
+* [gwfa][sw-gwfa]: graph wavefront alignment with edit distance, published in [Zhang et al (2022)][pub-gwfa].
+  Merged into gfatools and used by minigraph.
 * [minigraph][sw-mg]: pangenome construction and sequence-to-graph alignment, published in [Li et al (2020)][pub-minigraph].
 * [dipcall][sw-dipcall]: variant calling for phased diploid assemblies, developed for [Li et al (2019)][pub-dipcall].
 * [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b].
