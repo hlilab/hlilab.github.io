@@ -12,7 +12,7 @@ Our lab developed several alignment and assembly algorithms critical to high-thr
 These include [samtools][sw-samtools], [BWA][sw-bwa], [minimap2][sw-minimap2] and [hifiasm][sw-hifiasm],
 with each cited for 1000+ times *per year*.
 We also explore a variety of algorithms related to variant calling, gene annotation, pangenome analysis, full-text indexing and evolution.
-Most of our software packages work years after their initial publications and they are often well received.
+Most of our software packages work years after their initial publications and are often well received.
 
 ### Software
 
@@ -37,6 +37,7 @@ Most of our software packages work years after their initial publications and th
 * [BWA][sw-bwa]: widely used short-read aligner,
   published in [Li and Durbin (2009)][pub-bwa1], [Li and Durbin (2010)][pub-bwa2] and [Li (2013)][pub-bwa3].
 
+[sw-longcaller]: https://github.com/huangnengCSU/longcallR
 [sw-cgr]: https://github.com/lh3/cgranges
 [pub-miniasm]: https://pubmed.ncbi.nlm.nih.gov/27153593/
 [sw-miniasm]: https://github.com/lh3/miniasm
