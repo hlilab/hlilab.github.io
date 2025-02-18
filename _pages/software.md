@@ -11,7 +11,11 @@ permalink: /software
 Our lab developed several alignment and assembly algorithms critical to high-throughput sequence analysis.
 These include [samtools][sw-samtools], [BWA][sw-bwa], [minimap2][sw-minimap2] and [hifiasm][sw-hifiasm],
 with each cited for 1000+ times *per year*.
-We also explore a variety of algorithms related to variant calling, gene annotation, pangenome analysis, full-text indexing and evolution.
+We also explore a variety of algorithms related to variant calling (e.g. longcallR and dipcall),
+gene annotation (e.g. Immuannot and compleasm),
+pangenome analysis (e.g. minigraph and pangene),
+full-text indexing (e.g. ropebwt3)
+and evolution (e.g. psmc).
 Most of our tools work years after their initial publications and are often well received.
 
 ### Software
