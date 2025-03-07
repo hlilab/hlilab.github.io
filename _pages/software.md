@@ -22,7 +22,8 @@ Most of our tools work years after their initial publications and are often well
 
 #### Current
 
-* [longcallR][sw-longcaller]: SNP calling and haplotype-specific analysis from long RNA-seq reads, unpublished
+* [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
+* [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis from long RNA-seq reads, unpublished
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
 * [Immuannot][sw-immuannot]: annotating HLA and KIR genes in phased assemblies, published in [Zhou et al (2024)][pub-immuannot].
 * [pangene][sw-pangene]: constructing a pangenome gene graph, published in [Li (2024)][pub-pangene].
@@ -41,7 +42,8 @@ Most of our tools work years after their initial publications and are often well
 * [BWA][sw-bwa]: widely used short-read aligner,
   published in [Li and Durbin (2009)][pub-bwa1], [Li and Durbin (2010)][pub-bwa2] and [Li (2013)][pub-bwa3].
 
-[sw-longcaller]: https://github.com/huangnengCSU/longcallR
+[sw-longcallD]: https://github.com/yangao07/longcallD
+[sw-longcallR]: https://github.com/huangnengCSU/longcallR
 [sw-cgr]: https://github.com/lh3/cgranges
 [pub-miniasm]: https://pubmed.ncbi.nlm.nih.gov/27153593/
 [sw-miniasm]: https://github.com/lh3/miniasm
@@ -86,7 +88,7 @@ Most of our tools work years after their initial publications and are often well
 
 #### Developed by past members or maintained by others
 
-* [ntsm][sw-ntsm]: detecting sample swaps, published in [Chu and Li (2024)][pub-ntsw].
+* [ntsm][sw-ntsm]: detecting sample swaps, published in [Chu and Li (2024)][pub-ntsm].
 * [hifiasm][sw-hifiasm]: genome assembly with PacBio HiFi, Nanopore and Hi-C data,
   published in [Cheng et al (2021)][pub-ha1], [Cheng et al (2022)][pub-ha2] and [Cheng et al (2024)][pub-ha3].
   Maintained by Haoyu Cheng.
@@ -184,6 +186,7 @@ Most of our tools work years after their initial publications and are often well
 * [Human reference genome analysis sets][res-hg-idx] including BWA and Bowtie2 indices.
 * [Portable binaries][res-portable-bin] for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
 * [Haplotype-resolved PGP1 assembly][res-pgp1]
+* [Easy genomic regions for short-read variant calling][res-easy]
 
 #### Graveyard
 
@@ -192,6 +195,7 @@ Most of our tools work years after their initial publications and are often well
   and described in [PI's thesis][pub-thesis].
   No longer maintained since 2013.
 
+[res-easy]: https://zenodo.org/records/14903542
 [res-pgp1]: https://zenodo.org/records/5150756
 [res-rb3-human]: https://doi.org/10.5281/zenodo.13948741
 [res-rb3-bac]: https://doi.org/10.5281/zenodo.11533210
