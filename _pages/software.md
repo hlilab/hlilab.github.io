@@ -11,11 +11,14 @@ permalink: /software
 Our lab developed several alignment and assembly algorithms critical to high-throughput sequence analysis.
 These include [samtools][sw-samtools], [BWA][sw-bwa], [minimap2][sw-minimap2] and [hifiasm][sw-hifiasm],
 with each cited for 1000+ times *per year*.
-We also explore a variety of algorithms related to variant calling (e.g. longcallR and dipcall),
-gene annotation (e.g. Immuannot and compleasm),
+We also explore a variety of algorithms related to
+variant calling (e.g. longcallR and longcallD),
 pangenome analysis (e.g. minigraph and pangene),
-full-text indexing (e.g. ropebwt3)
-and evolution (e.g. psmc).
+protein alignment (e.g. miniprot),
+full-text indexing (e.g. ropebwt3),
+immunology (e.g. Immuannot and T1K),
+evolution (e.g. psmc and compleasm)
+and high-performance data structures in general (e.g. bedtk and BGT).
 Most of our tools work years after their initial publications and are often well received.
 
 ### Software
@@ -23,16 +26,16 @@ Most of our tools work years after their initial publications and are often well
 #### Current
 
 * [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
-* [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis from long RNA-seq reads, unpublished
+* [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, unpublished
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
 * [Immuannot][sw-immuannot]: annotating HLA and KIR genes in phased assemblies, published in [Zhou et al (2024)][pub-immuannot].
-* [pangene][sw-pangene]: constructing a pangenome gene graph, published in [Li (2024)][pub-pangene].
+* [pangene][sw-pangene]: constructing pangenome gene graphs, published in [Li (2024)][pub-pangene].
 * [compleasm][sw-minibusco]: a reimplementation of BUSCO for evaluating the gene completeness of an assembly, published in [Huang and Li (2023)][pub-minibusco].
 * [srf][sw-srf]: assembling satellite DNA, published in [Zhang et al (2023)][pub-srf].
 * [miniprot][sw-miniprot]: protein-to-genome alignment allowing splicing and frameshift, published in [Li (2023)][pub-miniprot].
 * [bedtk][sw-bedtk] and [cgranges][sw-cgr]: a fast toolkit and library for working with BED files, published in [Li and Rong (2020)][pub-bedtk].
 * [yak][sw-yak]: k-mer counting and assembly evaluation, developed for [Cheng et al (2021)][pub-ha1].
-* [gwfa][sw-gwfa]: graph wavefront alignment with edit distance, published in [Zhang et al (2022)][pub-gwfa].
+* [gwfa][sw-gwfa]: graph wavefront alignment with edit distance, preprinted at [Zhang et al (2022)][pub-gwfa].
   Merged into gfatools and used by minigraph.
 * [minigraph][sw-mg]: pangenome construction and sequence-to-graph alignment, published in [Li et al (2020)][pub-minigraph].
 * [dipcall][sw-dipcall]: variant calling for phased diploid assemblies, developed for [Li et al (2019)][pub-dipcall].
