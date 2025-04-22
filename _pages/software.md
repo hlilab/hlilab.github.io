@@ -39,9 +39,7 @@ Most of our tools work years after their initial publications and are often well
   Merged into gfatools and used by minigraph.
 * [minigraph][sw-mg]: pangenome construction and sequence-to-graph alignment, published in [Li et al (2020)][pub-minigraph].
 * [dipcall][sw-dipcall]: variant calling for phased diploid assemblies, developed for [Li et al (2019)][pub-dipcall].
-* [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b].
-  [![GitHub Repo stars](https://img.shields.io/github/stars/lh3/minimap2)](https://github.com/lh3/minimap2)
-  [![Conda Downloads](https://img.shields.io/conda/dn/bioconda/minimap2.svg?style=flag&label=bioconda)](https://anaconda.org/bioconda/minimap2)
+* [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b]. [![GitHub Repo stars](https://img.shields.io/github/stars/lh3/minimap2)](https://github.com/lh3/minimap2)[![Conda Downloads](https://img.shields.io/conda/dn/bioconda/minimap2.svg?style=flag&label=bioconda)](https://anaconda.org/bioconda/minimap2)
 * [miniasm][sw-miniasm]: a simple long-read assembler, published in [Li (2016)][pub-miniasm].
   Useful for assembly at small scale; not recommended for production.
 * [BWA][sw-bwa]: widely used short-read aligner,
