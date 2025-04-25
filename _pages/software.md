@@ -182,6 +182,7 @@ Most of our tools work years after their initial publications and are often well
   initially published in [Li (2024)][pub-rb3].
 * [Pangene graphs][res-pangene], initially published in [Li et al (2024)][pub-pangene].
 * [Minigraph graphs][res-minigraph], initially published in [Li et al (2020)][pub-minigraph].
+* [Immuannot annotations][res-immuannot], initially published in [Zhou et al (2024)][pub-immuannot].
 
 #### Unpublished resources
 
@@ -198,6 +199,7 @@ Most of our tools work years after their initial publications and are often well
   and described in [PI's thesis][pub-thesis].
   No longer maintained since 2013.
 
+[res-immuannot]: https://zenodo.org/records/8372991
 [res-easy]: https://zenodo.org/records/14903542
 [res-pgp1]: https://zenodo.org/records/5150756
 [res-rb3-human]: https://doi.org/10.5281/zenodo.13948741
