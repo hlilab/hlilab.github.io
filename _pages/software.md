@@ -191,6 +191,7 @@ Most of our tools work years after their initial publications and are often well
 * [Portable binaries][res-portable-bin] for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
 * [Haplotype-resolved PGP1 assembly][res-pgp1]
 * [Easy genomic regions for short-read variant calling][res-easy]
+* [Pantree VCFs generated from HPRC graphs][res-pantree]
 
 #### Graveyard
 
@@ -217,3 +218,4 @@ Most of our tools work years after their initial publications and are often well
 [pub-treefam2]: https://pubmed.ncbi.nlm.nih.gov/18056084/
 [pub-thesis]: https://github.com/lh3/thesis
 [sw-treebest]: https://github.com/Ensembl/treebest
+[res-pantree]: https://zenodo.org/records/15374896
