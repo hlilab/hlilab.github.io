@@ -27,12 +27,15 @@ Most of our tools work years after their initial publications and are often well
 
 * [myloasm][sw-myloasm]: metagenome assembler for PacBio HiFi and Nanopore R10 reads, unpublished
   <img style="margin: 0px" src="https://img.shields.io/github/stars/bluenote-1577/myloasm"/>
+  <a href="https://anaconda.org/bioconda/myloasm"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/myloasm.svg?style=flag&label=Bioconda"/></a>
 * [minisplice][sw-minisplice]: splice site scoring for improving spliced alignment, unpublished
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minisplice"/>
 * [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
   <img style="margin: 0px" src="https://img.shields.io/github/stars/yangao07/longcallD"/>
+  <a href="https://anaconda.org/bioconda/longcallD"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallD.svg?style=flag&label=Bioconda"/></a>
 * [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, preprinted in [Huang et al (2025)][pub-longcallR]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/longcallR"/>
+  <a href="https://anaconda.org/bioconda/longcallR"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallR.svg?style=flag&label=Bioconda"/></a>
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/ropebwt3"/>
 * [Immuannot][sw-immuannot]: annotating HLA and KIR genes in phased assemblies, published in [Zhou et al (2024)][pub-immuannot].
@@ -63,9 +66,11 @@ Most of our tools work years after their initial publications and are often well
 * [miniasm][sw-miniasm]: a simple long-read assembler, published in [Li (2016)][pub-miniasm].
   Useful for assembly at small scale; not recommended for production.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniasm"/>
+  <a href="https://anaconda.org/bioconda/miniasm"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/miniasm.svg?style=flag&label=Bioconda"/></a>
 * [BWA][sw-bwa]: widely used short-read aligner,
   published in [Li and Durbin (2009)][pub-bwa1], [Li and Durbin (2010)][pub-bwa2] and [Li (2013)][pub-bwa3].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bwa"/>
+  <a href="https://anaconda.org/bioconda/bwa"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bwa.svg?style=flag&label=Bioconda"/></a>
 
 [sw-minisplice]: https://github.com/lh3/minisplice
 [sw-myloasm]: https://github.com/bluenote-1577/myloasm
