@@ -36,6 +36,8 @@ Most of our tools work years after their initial publications and are often well
 * [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, preprinted in [Huang et al (2025)][pub-longcallR]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/longcallR"/>
   <a href="https://bioconda.github.io/recipes/longcallr/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallR.svg?style=flag&label=Bioconda"/></a>
+* [colorSV][sw-colorsv]: somatic SV calling via tumor-normal co-assembly, preprinted in [Le et al (2024)][pub-colorsv]
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/mktle/colorSV"/>
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/ropebwt3"/>
   <a href="https://bioconda.github.io/recipes/ropebwt3/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/ropebwt3.svg?style=flag&label=Bioconda"/></a>
@@ -78,6 +80,8 @@ Most of our tools work years after their initial publications and are often well
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bwa"/>
   <a href="https://bioconda.github.io/recipes/bwa/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bwa.svg?style=flag&label=Bioconda"/></a>
 
+[sw-colorsv]: https://github.com/mktle/colorSV
+[pub-colorsv]: https://www.biorxiv.org/content/10.1101/2024.07.29.605160v1
 [sw-minisplice]: https://github.com/lh3/minisplice
 [sw-myloasm]: https://github.com/bluenote-1577/myloasm
 [sw-longcallD]: https://github.com/yangao07/longcallD
