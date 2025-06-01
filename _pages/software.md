@@ -45,6 +45,7 @@ Most of our tools work years after their initial publications and are often well
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/srf"/>
 * [miniprot][sw-miniprot]: protein-to-genome alignment allowing splicing and frameshift, published in [Li (2023)][pub-miniprot].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniprot"/>
+  <a href="https://anaconda.org/bioconda/miniprot"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/miniprot.svg?style=flag&label=Bioconda"/></a>
 * [bedtk][sw-bedtk] and [cgranges][sw-cgr]: a fast toolkit and library for working with BED files, published in [Li and Rong (2020)][pub-bedtk].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bedtk"/>
 * [yak][sw-yak]: k-mer counting and assembly evaluation, developed for [Cheng et al (2021)][pub-ha1].
@@ -58,6 +59,7 @@ Most of our tools work years after their initial publications and are often well
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/dipcall"/>
 * [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minimap2"/>
+  <a href="https://anaconda.org/bioconda/minimap2"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/minimap2.svg?style=flag&label=Bioconda"/></a>
 * [miniasm][sw-miniasm]: a simple long-read assembler, published in [Li (2016)][pub-miniasm].
   Useful for assembly at small scale; not recommended for production.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniasm"/>
