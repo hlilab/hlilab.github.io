@@ -74,7 +74,7 @@ permalink: /team/
 
 # Past Members
 
-* [Siying (Avon) Yang](https://www.linkedin.com/in/avon-yang-347096291/) (2024-2025). DBMI master student &#8594; incoming PhD student to Harvard
+* [Siying (Avon) Yang](https://www.linkedin.com/in/avon-yang-347096291/) (2024-2025). DBMI master student &#8594; Incoming PhD student to Harvard
 * [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2025). Research scientist &#8594; Research scientist at Brigham Women's Hospital
 * [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD candidate in Harvard BIG
 * [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale

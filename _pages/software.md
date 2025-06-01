@@ -25,8 +25,10 @@ Most of our tools work years after their initial publications and are often well
 
 #### Current
 
+* [myloasm][sw-myloasm]: metagenome assembler for PacBio HiFi and Nanopore R10 reads, unpublished
+* [minisplice][sw-minisplice]: splice site scoring for improving spliced alignment, unpublished
 * [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
-* [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, unpublished
+* [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, preprinted in [Huang et al (2025)][pub-longcallR]
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
 * [Immuannot][sw-immuannot]: annotating HLA and KIR genes in phased assemblies, published in [Zhou et al (2024)][pub-immuannot].
 * [pangene][sw-pangene]: constructing pangenome gene graphs, published in [Li (2024)][pub-pangene].
@@ -39,14 +41,17 @@ Most of our tools work years after their initial publications and are often well
   Merged into gfatools and used by minigraph.
 * [minigraph][sw-mg]: pangenome construction and sequence-to-graph alignment, published in [Li et al (2020)][pub-minigraph].
 * [dipcall][sw-dipcall]: variant calling for phased diploid assemblies, developed for [Li et al (2019)][pub-dipcall].
-* [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b].
+* [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b] <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minimap2">
 * [miniasm][sw-miniasm]: a simple long-read assembler, published in [Li (2016)][pub-miniasm].
   Useful for assembly at small scale; not recommended for production.
 * [BWA][sw-bwa]: widely used short-read aligner,
   published in [Li and Durbin (2009)][pub-bwa1], [Li and Durbin (2010)][pub-bwa2] and [Li (2013)][pub-bwa3].
 
+[sw-minisplice]: https://github.com/lh3/minisplice
+[sw-myloasm]: https://github.com/bluenote-1577/myloasm
 [sw-longcallD]: https://github.com/yangao07/longcallD
 [sw-longcallR]: https://github.com/huangnengCSU/longcallR
+[pub-longcallR]: https://www.biorxiv.org/content/10.1101/2025.05.26.656191v1
 [sw-cgr]: https://github.com/lh3/cgranges
 [pub-miniasm]: https://pubmed.ncbi.nlm.nih.gov/27153593/
 [sw-miniasm]: https://github.com/lh3/miniasm
