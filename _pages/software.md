@@ -151,6 +151,7 @@ Most of our tools work years after their initial publications and are often well
   published in [Feng et al (2022)][pub-hm1] and [Feng et al (2024)][pub-hm2].
   Maintained by Xiaowen Feng.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/xfengnefx/hifiasm-meta"/>
+  <a href="https://bioconda.github.io/recipes/hifiasm_meta/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/hifiasm_meta.svg?style=flag&label=Bioconda"/></a>
 * [T1K][sw-t1k]: HLA and KIR genotyping with short reads, published in [Song et al (2023)][pub-t1k].
   Maintained by Li Song.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/mourisl/T1K"/>
