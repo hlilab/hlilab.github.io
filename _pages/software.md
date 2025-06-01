@@ -38,12 +38,14 @@ Most of our tools work years after their initial publications and are often well
   <a href="https://anaconda.org/bioconda/longcallR"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallR.svg?style=flag&label=Bioconda"/></a>
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/ropebwt3"/>
+  <a href="https://anaconda.org/bioconda/ropebwt3"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/ropebwt3.svg?style=flag&label=Bioconda"/></a>
 * [Immuannot][sw-immuannot]: annotating HLA and KIR genes in phased assemblies, published in [Zhou et al (2024)][pub-immuannot].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/YingZhou001/Immuannot"/>
 * [pangene][sw-pangene]: constructing pangenome gene graphs, published in [Li (2024)][pub-pangene].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/pangene"/>
 * [compleasm][sw-minibusco]: a reimplementation of BUSCO for evaluating the gene completeness of an assembly, published in [Huang and Li (2023)][pub-minibusco].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/compleasm"/>
+  <a href="https://anaconda.org/bioconda/compleasm"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/compleasm.svg?style=flag&label=Bioconda"/></a>
 * [srf][sw-srf]: assembling satellite DNA, published in [Zhang et al (2023)][pub-srf].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/srf"/>
 * [miniprot][sw-miniprot]: protein-to-genome alignment allowing splicing and frameshift, published in [Li (2023)][pub-miniprot].
@@ -51,15 +53,19 @@ Most of our tools work years after their initial publications and are often well
   <a href="https://anaconda.org/bioconda/miniprot"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/miniprot.svg?style=flag&label=Bioconda"/></a>
 * [bedtk][sw-bedtk] and [cgranges][sw-cgr]: a fast toolkit and library for working with BED files, published in [Li and Rong (2020)][pub-bedtk].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bedtk"/>
+  <a href="https://anaconda.org/bioconda/bedtk"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bedtk.svg?style=flag&label=Bioconda"/></a>
 * [yak][sw-yak]: k-mer counting and assembly evaluation, developed for [Cheng et al (2021)][pub-ha1].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/yak"/>
+  <a href="https://anaconda.org/bioconda/yak"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/yak.svg?style=flag&label=Bioconda"/></a>
 * [gwfa][sw-gwfa]: graph wavefront alignment with edit distance, preprinted at [Zhang et al (2022)][pub-gwfa].
   Merged into gfatools and used by minigraph.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/gwfa"/>
 * [minigraph][sw-mg]: pangenome construction and sequence-to-graph alignment, published in [Li et al (2020)][pub-minigraph].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minigraph"/>
+  <a href="https://anaconda.org/bioconda/minigraph"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/minigraph.svg?style=flag&label=Bioconda"/></a>
 * [dipcall][sw-dipcall]: variant calling for phased diploid assemblies, developed for [Li et al (2019)][pub-dipcall].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/dipcall"/>
+  <a href="https://anaconda.org/bioconda/dipcall"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/dipcall.svg?style=flag&label=Bioconda"/></a>
 * [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minimap2"/>
   <a href="https://anaconda.org/bioconda/minimap2"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/minimap2.svg?style=flag&label=Bioconda"/></a>
@@ -128,10 +134,12 @@ Most of our tools work years after their initial publications and are often well
 
 * [ntsm][sw-ntsm]: detecting sample swaps, published in [Chu and Li (2024)][pub-ntsm].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/JustinChu/ntsm"/>
+  <a href="https://anaconda.org/bioconda/ntsm"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/ntsm.svg?style=flag&label=Bioconda"/></a>
 * [hifiasm][sw-hifiasm]: genome assembly with PacBio HiFi, Nanopore and Hi-C data,
   published in [Cheng et al (2021)][pub-ha1], [Cheng et al (2022)][pub-ha2] and [Cheng et al (2024)][pub-ha3].
   Maintained by Haoyu Cheng.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/chhylp123/hifiasm"/>
+  <a href="https://anaconda.org/bioconda/hifiasm"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/hifiasm.svg?style=flag&label=Bioconda"/></a>
 * [hifiasm-meta][sw-hameta]: metagenome assembly with PacBio HiFi,
   published in [Feng et al (2022)][pub-hm1] and [Feng et al (2024)][pub-hm2].
   Maintained by Xiaowen Feng.
@@ -139,23 +147,29 @@ Most of our tools work years after their initial publications and are often well
 * [T1K][sw-t1k]: HLA and KIR genotyping with short reads, published in [Song et al (2023)][pub-t1k].
   Maintained by Li Song.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/mourisl/T1K"/>
+  <a href="https://anaconda.org/bioconda/t1k"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/t1k.svg?style=flag&label=Bioconda"/></a>
 * [chromap][sw-chromap]: aligning short ChIP-seq, ATAC-seq or Hi-C reads, published in [Zhang et al (2021)][pub-chromap].
   Maintained by Haowen Zhang and Li Song.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/haowenz/chromap"/>
+  <a href="https://anaconda.org/bioconda/chromap"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/chromap.svg?style=flag&label=Bioconda"/></a>
 * [hifieval][sw-hifieval]: evaluating error correction accuracy for HiFi data, published in [Guo et al (2023)][pub-hifieval].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/magspho/hifieval"/>
+  <a href="https://anaconda.org/bioconda/hifieval"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/hifieval.svg?style=flag&label=Bioconda"/></a>
 * [tabix][sw-tabix]: indexing and querying coordinate-sorted formats such as VCF and BED,
   published in [Li (2011)][pub-tabix].
   Now part of the samtools project.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/samtools/tabix"/>
+  <a href="https://anaconda.org/bioconda/tabix"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/tabix.svg?style=flag&label=Bioconda"/></a>
 * [samtools][sw-samtools]: utilities for manipulating alignments in the SAM format.
   Initially published in [Li et al (2009)][pub-samtools1], [Li (2011a)][pub-samtools2] and [Li (2011b)][pub-samtools3].
   Maintained by Sanger since 2013.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/samtools/samtools"/>
+  <a href="https://anaconda.org/bioconda/samtools"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/samtools.svg?style=flag&label=Bioconda"/></a>
 * [TreeBeST][sw-treebest]: the core engine behind TreeFam for tree building.
   Some components are described in [PI's thesis][pub-thesis].
   Maintained by Ensembl Compara.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/Ensembl/treebest"/>
+  <a href="https://anaconda.org/bioconda/treebest"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/treebest.svg?style=flag&label=Bioconda"/></a>
 
 [pub-hifieval]: https://pubmed.ncbi.nlm.nih.gov/37851384/
 [sw-hifieval]: https://github.com/magspho/hifieval
@@ -183,22 +197,29 @@ Most of our tools work years after their initial publications and are often well
 
 * [dna-nn][sw-dna-nn]: model and predict short DNA sequence features with neural networks, published in [Li (2019)][pub-dna-nn].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/dna-nn"/>
+  <a href="https://anaconda.org/bioconda/dna-nn"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/dna-nn.svg?style=flag&label=Bioconda"/></a>
 * [hickit][sw-hickit]: 3D modeling for single-cell Hi-C, developed for [Tan et al (2018)][pub-hickit].
   It was not used in this paper but used in Longzhi Tan's later work.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/hickit"/>
 * [BGT][sw-bgt]: fast and lightweight genotype query across many samples, published in [Li (2016)][pub-bgt].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bgt"/>
+  <a href="https://anaconda.org/bioconda/bgt"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bgt.svg?style=flag&label=Bioconda"/></a>
 * [fermi][sw-fermi], [fermi2][sw-fermi2] and [FermiKit][sw-fermikit]: short-read assembler,
   published in [Li (2012)][pub-fm1] and [Li (2015)][pub-fm2].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/fermi"/>
+  <a href="https://anaconda.org/bioconda/fermi"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/fermi.svg?style=flag&label=Bioconda"/></a>
 * [fermi-lite][sw-fmlite]: a library in C for short-read assembly in small regions, adapted from FermiKit
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/fermi-lite"/>
+  <a href="https://anaconda.org/bioconda/fermi-lite"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/fermi-lite.svg?style=flag&label=Bioconda"/></a>
 * [BFC][sw-bfc]: correcting sequencing errors in short reads, published in [Li (2015)][pub-bfc].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bfc"/>
+  <a href="https://anaconda.org/bioconda/bfc"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bfc.svg?style=flag&label=Bioconda"/></a>
 * [bioawk][sw-bioawk]: BWK awk modified for biological data, unpublished
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bioawk"/>
+  <a href="https://anaconda.org/bioconda/bioawk"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bioawk.svg?style=flag&label=Bioconda"/></a>
 * [psmc][sw-psmc]: infer historical population sizes from a diploid genome, published in [Li and Durbin (2011)][pub-psmc].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/psmc"/>
+  <a href="https://anaconda.org/bioconda/psmc"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/psmc.svg?style=flag&label=Bioconda"/></a>
 
 [pub-dna-nn]: https://pubmed.ncbi.nlm.nih.gov/30989183/
 [sw-dna-nn]: https://github.com/lh3/dna-nn
