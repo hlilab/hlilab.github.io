@@ -59,11 +59,11 @@
 #  education1: <a href="https://dbmi.hms.harvard.edu/education/master-biomedical-informatics">MSc</a>, <a href="https://dbmi.hms.harvard.edu/">Harvard Medical School</a>, US
 #  education2: BSc, <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a>, US
 
-- name: Siying (Avon) Yang
-  photo: default.png
-  info: HMS master student, started Jan 2024
-  number_educ: 1
-  education1: BSc, UCSD, US
+#- name: Siying (Avon) Yang
+#  photo: default.png
+#  info: HMS master student, started Jan 2024
+#  number_educ: 1
+#  education1: BSc, UCSD, US
 
 - name: Jingqing (Jason) Hu
   photo: default.png

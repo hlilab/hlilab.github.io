@@ -74,12 +74,13 @@ permalink: /team/
 
 # Past Members
 
-* [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD candidate in Harvard BIG (still collaborating)
+* [Siying (Avon) Yang](https://www.linkedin.com/in/avon-yang-347096291/) (2024-2025). DBMI master student &#8594; incoming PhD student to Harvard
+* [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD candidate in Harvard BIG
 * [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale
 * [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc
 * [Kar-Tong Tan](https://www.linkedin.com/in/kar-tong-tan-b843aa1b8/) (2020-2024). Harvard PhD student (co-mentored) &#8594; postdoc &#8594; Assistant professor in [NUS](https://nus.edu.sg/)
-* [Daniel Liu](https://liudaniel.com/) (2023). Intern undergraduate student in UCLA &#8594;&#8594; joining [Anthropic](https://www.anthropic.com/)
+* [Daniel Liu](https://liudaniel.com/) (2023). Intern undergraduate student in UCLA &#8594;&#8594; [Anthropic](https://www.anthropic.com/)
 * [Yidan Ma](https://www.linkedin.com/in/yidanma-51/) (2022-2023). HSPH master student &#8594; [Analysis Group Boston](https://www.analysisgroup.com/about/locations/boston/)
 * [Alberto Zeni](https://www.linkedin.com/in/alberto-zeni/) (2023). Visiting student &#8594; collaborator &#8594; AMD
 * [Yujie (York) Zhang](https://www.linkedin.com/in/yujie-zhang-5a0633152/) (2021-2023). HSPH master student &#8594; PhD student in UCSF
