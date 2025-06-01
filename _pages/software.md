@@ -32,10 +32,10 @@ Most of our tools work years after their initial publications and are often well
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minisplice"/>
 * [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
   <img style="margin: 0px" src="https://img.shields.io/github/stars/yangao07/longcallD"/>
-  <a href="https://bioconda.github.io/recipes/longcallD/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallD.svg?style=flag&label=Bioconda"/></a>
+  <a href="https://bioconda.github.io/recipes/longcalld/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallD.svg?style=flag&label=Bioconda"/></a>
 * [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, preprinted in [Huang et al (2025)][pub-longcallR]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/longcallR"/>
-  <a href="https://bioconda.github.io/recipes/longcallR/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallR.svg?style=flag&label=Bioconda"/></a>
+  <a href="https://bioconda.github.io/recipes/longcallr/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallR.svg?style=flag&label=Bioconda"/></a>
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/ropebwt3"/>
   <a href="https://bioconda.github.io/recipes/ropebwt3/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/ropebwt3.svg?style=flag&label=Bioconda"/></a>
