@@ -26,26 +26,44 @@ Most of our tools work years after their initial publications and are often well
 #### Current
 
 * [myloasm][sw-myloasm]: metagenome assembler for PacBio HiFi and Nanopore R10 reads, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/bluenote-1577/myloasm"/>
 * [minisplice][sw-minisplice]: splice site scoring for improving spliced alignment, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minisplice"/>
 * [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/yangao07/longcallD"/>
 * [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, preprinted in [Huang et al (2025)][pub-longcallR]
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/longcallR"/>
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/ropebwt3"/>
 * [Immuannot][sw-immuannot]: annotating HLA and KIR genes in phased assemblies, published in [Zhou et al (2024)][pub-immuannot].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/YingZhou001/Immuannot"/>
 * [pangene][sw-pangene]: constructing pangenome gene graphs, published in [Li (2024)][pub-pangene].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/pangene"/>
 * [compleasm][sw-minibusco]: a reimplementation of BUSCO for evaluating the gene completeness of an assembly, published in [Huang and Li (2023)][pub-minibusco].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/compleasm"/>
 * [srf][sw-srf]: assembling satellite DNA, published in [Zhang et al (2023)][pub-srf].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/srf"/>
 * [miniprot][sw-miniprot]: protein-to-genome alignment allowing splicing and frameshift, published in [Li (2023)][pub-miniprot].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniprot"/>
 * [bedtk][sw-bedtk] and [cgranges][sw-cgr]: a fast toolkit and library for working with BED files, published in [Li and Rong (2020)][pub-bedtk].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bedtk"/>
 * [yak][sw-yak]: k-mer counting and assembly evaluation, developed for [Cheng et al (2021)][pub-ha1].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/yak"/>
 * [gwfa][sw-gwfa]: graph wavefront alignment with edit distance, preprinted at [Zhang et al (2022)][pub-gwfa].
   Merged into gfatools and used by minigraph.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/gwfa"/>
 * [minigraph][sw-mg]: pangenome construction and sequence-to-graph alignment, published in [Li et al (2020)][pub-minigraph].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minigraph"/>
 * [dipcall][sw-dipcall]: variant calling for phased diploid assemblies, developed for [Li et al (2019)][pub-dipcall].
-* [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b] <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minimap2">
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/dipcall"/>
+* [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b]
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minimap2"/>
 * [miniasm][sw-miniasm]: a simple long-read assembler, published in [Li (2016)][pub-miniasm].
   Useful for assembly at small scale; not recommended for production.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniasm"/>
 * [BWA][sw-bwa]: widely used short-read aligner,
   published in [Li and Durbin (2009)][pub-bwa1], [Li and Durbin (2010)][pub-bwa2] and [Li (2013)][pub-bwa3].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bwa"/>
 
 [sw-minisplice]: https://github.com/lh3/minisplice
 [sw-myloasm]: https://github.com/bluenote-1577/myloasm
@@ -83,10 +101,15 @@ Most of our tools work years after their initial publications and are often well
 [sw-gwfa]: https://github.com/lh3/gwfa
 
 * [minipileup][sw-miniplp]: simple pileup-based variant caller, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minipileup"/>
 * [seqtk][sw-seqtk]: a small toolkit for manipulating sequences in FASTA/FASTQ, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/seqtk"/>
 * [gfatools][sw-gfatools]: a toolkit for working with graphs in the GFA format, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/gfatools"/>
 * [miniwfa][sw-miniwfa]: a reimplementation of the wavefront alignment algorithm at low memory. Unpublished but used in minigraph.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniwfa"/>
 * [jstreeview][sw-jstv]: interactive phylogenetic tree viewer/editor in JavaScript, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/jstreeview"/>
 
 [sw-jstv]: https://github.com/lh3/jstreeview
 [sw-miniplp]: https://github.com/lh3/minipileup
@@ -97,26 +120,35 @@ Most of our tools work years after their initial publications and are often well
 #### Developed by past members or maintained by others
 
 * [ntsm][sw-ntsm]: detecting sample swaps, published in [Chu and Li (2024)][pub-ntsm].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/JustinChu/ntsm"/>
 * [hifiasm][sw-hifiasm]: genome assembly with PacBio HiFi, Nanopore and Hi-C data,
   published in [Cheng et al (2021)][pub-ha1], [Cheng et al (2022)][pub-ha2] and [Cheng et al (2024)][pub-ha3].
   Maintained by Haoyu Cheng.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/chhylp123/hifiasm"/>
 * [hifiasm-meta][sw-hameta]: metagenome assembly with PacBio HiFi,
   published in [Feng et al (2022)][pub-hm1] and [Feng et al (2024)][pub-hm2].
   Maintained by Xiaowen Feng.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/xfengnefx/hifiasm-meta"/>
 * [T1K][sw-t1k]: HLA and KIR genotyping with short reads, published in [Song et al (2023)][pub-t1k].
   Maintained by Li Song.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/mourisl/T1K"/>
 * [chromap][sw-chromap]: aligning short ChIP-seq, ATAC-seq or Hi-C reads, published in [Zhang et al (2021)][pub-chromap].
   Maintained by Haowen Zhang and Li Song.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/haowenz/chromap"/>
 * [hifieval][sw-hifieval]: evaluating error correction accuracy for HiFi data, published in [Guo et al (2023)][pub-hifieval].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/magspho/hifieval"/>
 * [tabix][sw-tabix]: indexing and querying coordinate-sorted formats such as VCF and BED,
   published in [Li (2011)][pub-tabix].
   Now part of the samtools project.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/samtools/tabix"/>
 * [samtools][sw-samtools]: utilities for manipulating alignments in the SAM format.
   Initially published in [Li et al (2009)][pub-samtools1], [Li (2011a)][pub-samtools2] and [Li (2011b)][pub-samtools3].
   Maintained by Sanger since 2013.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/samtools/samtools"/>
 * [TreeBeST][sw-treebest]: the core engine behind TreeFam for tree building.
   Some components are described in [PI's thesis][pub-thesis].
   Maintained by Ensembl Compara.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/Ensembl/treebest"/>
 
 [pub-hifieval]: https://pubmed.ncbi.nlm.nih.gov/37851384/
 [sw-hifieval]: https://github.com/magspho/hifieval
@@ -143,15 +175,23 @@ Most of our tools work years after their initial publications and are often well
 #### Old but functional
 
 * [dna-nn][sw-dna-nn]: model and predict short DNA sequence features with neural networks, published in [Li (2019)][pub-dna-nn].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/dna-nn"/>
 * [hickit][sw-hickit]: 3D modeling for single-cell Hi-C, developed for [Tan et al (2018)][pub-hickit].
   It was not used in this paper but used in Longzhi Tan's later work.
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/hickit"/>
 * [BGT][sw-bgt]: fast and lightweight genotype query across many samples, published in [Li (2016)][pub-bgt].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bgt"/>
 * [fermi][sw-fermi], [fermi2][sw-fermi2] and [FermiKit][sw-fermikit]: short-read assembler,
   published in [Li (2012)][pub-fm1] and [Li (2015)][pub-fm2].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/fermi"/>
 * [fermi-lite][sw-fmlite]: a library in C for short-read assembly in small regions, adapted from FermiKit
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/fermi-lite"/>
 * [BFC][sw-bfc]: correcting sequencing errors in short reads, published in [Li (2015)][pub-bfc].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bfc"/>
 * [bioawk][sw-bioawk]: BWK awk modified for biological data, unpublished
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bioawk"/>
 * [psmc][sw-psmc]: infer historical population sizes from a diploid genome, published in [Li and Durbin (2011)][pub-psmc].
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/psmc"/>
 
 [pub-dna-nn]: https://pubmed.ncbi.nlm.nih.gov/30989183/
 [sw-dna-nn]: https://github.com/lh3/dna-nn
