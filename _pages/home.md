@@ -33,6 +33,9 @@ Institute.
 We are an established young lab and **[are looking for](vacancies)
 passionate PhD students and postdocs to join our team!**
 -->
+<div style="text-align: center;">
+  <img src="images/lab-xkcd.png" width="30%"/>
+</div>
 
 [dbmi]: http://dbmi.hms.harvard.edu
 [ds]: http://ds.dfci.harvard.edu
