@@ -292,20 +292,11 @@ Most of our tools work years after their initial publications and are often well
   and described in [PI's thesis][pub-thesis].
   No longer maintained since 2013.
 
-[res-immuannot]: https://zenodo.org/records/8372991
-[res-easy]: https://zenodo.org/records/14903542
-[res-pgp1]: https://zenodo.org/records/5150756
-[res-pangene]: https://doi.org/10.5281/zenodo.8118576
 [pub-pangene]: https://pubmed.ncbi.nlm.nih.gov/39041615/
 [sw-pangene]: https://github.com/lh3/pangene
-[res-minigraph]: https://doi.org/10.5281/zenodo.6286521
 [pub-minigraph]: https://pubmed.ncbi.nlm.nih.gov/33066802/
-[res-cenloc]: https://doi.org/10.5281/zenodo.10903864
-[res-hg-idx]: https://doi.org/10.5281/zenodo.8045373
-[res-portable-bin]: https://doi.org/10.5281/zenodo.5731012
 [web-treefam]: http://www.treefam.org
 [pub-treefam1]: https://pubmed.ncbi.nlm.nih.gov/16381935/
 [pub-treefam2]: https://pubmed.ncbi.nlm.nih.gov/18056084/
 [pub-thesis]: https://github.com/lh3/thesis
 [sw-treebest]: https://github.com/Ensembl/treebest
-[res-pantree]: https://zenodo.org/records/15374896
