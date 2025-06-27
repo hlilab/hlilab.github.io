@@ -71,6 +71,7 @@ Most of our tools work years after their initial publications and are often well
 * [minimap2][sw-minimap2]: widely used long-read aligner, published in [Li (2018)][pub-minimap2a] and improved in [Li (2021)][pub-minimap2b]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minimap2"/>
   <a href="https://bioconda.github.io/recipes/minimap2/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/minimap2.svg?style=flag&label=Bioconda"/></a>
+  <a href="https://bioconda.github.io/recipes/mappy/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/minimap2.svg?style=flag&label=mappy"/></a>
 * [miniasm][sw-miniasm]: a simple long-read assembler, published in [Li (2016)][pub-miniasm].
   Useful for assembly at small scale; not recommended for production.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/miniasm"/>
@@ -173,6 +174,8 @@ Most of our tools work years after their initial publications and are often well
   Maintained by Sanger since 2013.
   <img style="margin: 0px" src="https://img.shields.io/github/stars/samtools/samtools"/>
   <a href="https://bioconda.github.io/recipes/samtools/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/samtools.svg?style=flag&label=Bioconda"/></a>
+  <a href="https://bioconda.github.io/recipes/bcftools/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/samtools.svg?style=flag&label=bcftools"/></a>
+  <a href="https://bioconda.github.io/recipes/htslib/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/samtools.svg?style=flag&label=htslib"/></a>
 * [TreeBeST][sw-treebest]: the core engine behind TreeFam for tree building.
   Some components are described in [PI's thesis][pub-thesis].
   Maintained by Ensembl Compara.
