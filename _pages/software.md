@@ -259,9 +259,10 @@ Most of our tools work years after their initial publications and are often well
 
 #### Updated resources since publication
 
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13948741.svg)](res-rb3-human)
+* <a href="https://doi.org/10.5281/zenodo.13948741"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.13948741.svg"/></a>
   ropebwt3 index for human, initially published in [Li (2024)][pub-rb3].
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11533210.svg)](res-rb3-bac)
+* <a href="https://doi.org/10.5281/zenodo.11533210"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11533210.svg"/></a>
+  ropebwt3 index for bacteria
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8118576.svg)](res-pangene)
   pangene graphs, initially published in [Li et al (2024)][pub-pangene].
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6286521.svg)](res-minigraph)
@@ -294,8 +295,6 @@ Most of our tools work years after their initial publications and are often well
 [res-immuannot]: https://zenodo.org/records/8372991
 [res-easy]: https://zenodo.org/records/14903542
 [res-pgp1]: https://zenodo.org/records/5150756
-[res-rb3-human]: https://doi.org/10.5281/zenodo.13948741
-[res-rb3-bac]: https://doi.org/10.5281/zenodo.11533210
 [res-pangene]: https://doi.org/10.5281/zenodo.8118576
 [pub-pangene]: https://pubmed.ncbi.nlm.nih.gov/39041615/
 [sw-pangene]: https://github.com/lh3/pangene
