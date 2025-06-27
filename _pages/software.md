@@ -259,20 +259,30 @@ Most of our tools work years after their initial publications and are often well
 
 #### Updated resources since publication
 
-* Ropebwt3 indices [for human][res-rb3-human] and [for bacteria][res-rb3-bac],
-  initially published in [Li (2024)][pub-rb3].
-* [Pangene graphs][res-pangene], initially published in [Li et al (2024)][pub-pangene].
-* [Minigraph graphs][res-minigraph], initially published in [Li et al (2020)][pub-minigraph].
-* [Immuannot annotations][res-immuannot], initially published in [Zhou et al (2024)][pub-immuannot].
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13948741.svg)](res-rb3-human)
+  ropebwt3 index for human, initially published in [Li (2024)][pub-rb3].
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11533210.svg)](res-rb3-bac)
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8118576.svg)](res-pangene)
+  pangene graphs, initially published in [Li et al (2024)][pub-pangene].
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6286521.svg)](res-minigraph)
+  minigraph graphs, initially published in [Li et al (2020)][pub-minigraph].
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8372991.svg)](res-immuannot)
+  Immuannot annotations, initially published in [Zhou et al (2024)][pub-immuannot].
 
 #### Unpublished resources
 
-* Manually curated [locations of centromeric repeats][res-cenloc] for variant filtering.
-* [Human reference genome analysis sets][res-hg-idx] including BWA and Bowtie2 indices.
-* [Portable binaries][res-portable-bin] for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
-* [Haplotype-resolved PGP1 assembly][res-pgp1]
-* [Easy genomic regions for short-read variant calling][res-easy]
-* [Pantree VCFs generated from HPRC graphs][res-pantree]
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10903864.svg)](res-cenloc)
+  notable genomic regions in T2T-CHM13 and GRCh38
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5731012.svg)](res-portable-bin)
+  portable binaries for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15374896.svg)](res-pantree)
+  pantree VCFs generated from HPRC graphs
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8045373.svg)](res-hg-idx)
+  human reference genome analysis sets including BWA and Bowtie2 indices.
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14903542.svg)](res-easy)
+  easy genomic regions for short-read variant calling
+* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5150756.svg)](res-pgp1)
+  haplotype-resolved PGP1 assembly
 
 #### Graveyard
 
