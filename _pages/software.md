@@ -259,30 +259,30 @@ Most of our tools work years after their initial publications and are often well
 
 #### Updated resources since publication
 
-* <a href="https://doi.org/10.5281/zenodo.13948741"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.13948741.svg"/></a>
+* <a href="https://zenodo.org/records/13948741"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.13948741.svg"/></a>
   ropebwt3 index for human, initially published in [Li (2024)][pub-rb3].
-* <a href="https://doi.org/10.5281/zenodo.11533210"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11533210.svg"/></a>
+* <a href="https://zenodo.org/records/11533210"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11533210.svg"/></a>
   ropebwt3 index for bacteria
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8118576.svg)](res-pangene)
+* <a href="https://zenodo.org/records/8118576"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.8118576.svg"/></a>
   pangene graphs, initially published in [Li et al (2024)][pub-pangene].
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6286521.svg)](res-minigraph)
+* <a href="https://zenodo.org/records/6286521"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.6286521.svg"/></a>
   minigraph graphs, initially published in [Li et al (2020)][pub-minigraph].
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8372991.svg)](res-immuannot)
+* <a href="https://zenodo.org/records/8372991"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.8372991.svg"/></a>
   Immuannot annotations, initially published in [Zhou et al (2024)][pub-immuannot].
 
 #### Unpublished resources
 
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10903864.svg)](res-cenloc)
+* <a href="https://zenodo.org/records/10903864"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.10903864.svg"/></a>
   notable genomic regions in T2T-CHM13 and GRCh38
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5731012.svg)](res-portable-bin)
+* <a href="https://zenodo.org/records/5731012"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.5731012.svg"/></a>
   portable binaries for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15374896.svg)](res-pantree)
+* <a href="https://zenodo.org/records/15374896"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.15374896.svg"/></a>
   pantree VCFs generated from HPRC graphs
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8045373.svg)](res-hg-idx)
+* <a href="https://zenodo.org/records/8045373"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.8045373.svg"/></a>
   human reference genome analysis sets including BWA and Bowtie2 indices.
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14903542.svg)](res-easy)
+* <a href="https://zenodo.org/records/14903542"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.14903542.svg"/></a>
   easy genomic regions for short-read variant calling
-* [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5150756.svg)](res-pgp1)
+* <a href="https://zenodo.org/records/5150756"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.5150756.svg"/></a>
   haplotype-resolved PGP1 assembly
 
 #### Graveyard
