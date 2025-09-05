@@ -1,3 +1,11 @@
+- title: "Finding easy regions for short-read variant calling from pangenome data"
+  authors: <b>Li H</b>
+  year: 2025
+  url: https://pubmed.ncbi.nlm.nih.gov/40905373
+  display: <i>GigaScience</i>, <b>14</b>:giaf103
+  pmid: 40905373
+  type: 1
+
 - title: "BWT construction and search at the terabase scale"
   authors: <b>Li H</b>
   year: 2024
