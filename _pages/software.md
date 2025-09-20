@@ -25,18 +25,22 @@ Most of our tools work years after their initial publications and are often well
 
 #### Current
 
-* [myloasm][sw-myloasm]: metagenome assembler for PacBio HiFi and Nanopore R10 reads, unpublished
+* [myloasm][sw-myloasm]: metagenome assembler for PacBio HiFi and Nanopore R10 reads, preprinted in [Shaw et al (2025)][pub-myloasm]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/bluenote-1577/myloasm"/>
   <a href="https://bioconda.github.io/recipes/myloasm/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/myloasm.svg?style=flag&label=Bioconda"/></a>
-* [minisplice][sw-minisplice]: splice site scoring for improving spliced alignment, unpublished
+* [longdust][sw-longdust]: identifying long STRs, VNTRs, satellite DNA and other low-complexity regions, preprinted in [Li (2025)][pub-longdust]
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/longdust"/>
+  <a href="https://bioconda.github.io/recipes/longdust/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longdust.svg?style=flag&label=Bioconda"/></a>
+* [minisplice][sw-minisplice]: splice site scoring for improving spliced alignment, preprinted in [Yang et al (2025)][pub-minisplice]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/minisplice"/>
+  <a href="https://bioconda.github.io/recipes/minisplice/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/minisplice.svg?style=flag&label=Bioconda"/></a>
 * [longcallD][sw-longcallD]: small and large variant calling from long genomic reads, unpublished
   <img style="margin: 0px" src="https://img.shields.io/github/stars/yangao07/longcallD"/>
   <a href="https://bioconda.github.io/recipes/longcalld/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallD.svg?style=flag&label=Bioconda"/></a>
 * [longcallR][sw-longcallR]: SNP calling and haplotype-specific analysis for long RNA-seq reads, preprinted in [Huang et al (2025)][pub-longcallR]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/huangnengCSU/longcallR"/>
   <a href="https://bioconda.github.io/recipes/longcallr/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/longcallR.svg?style=flag&label=Bioconda"/></a>
-* [colorSV][sw-colorsv]: somatic SV calling via tumor-normal co-assembly, preprinted in [Le et al (2024)][pub-colorsv]
+* [colorSV][sw-colorsv]: somatic SV calling via tumor-normal co-assembly, published in [Le et al (2024)][pub-colorsv]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/mktle/colorSV"/>
 * [ropebwt3][sw-rb3]: construction and utility of BWT for DNA string sets, published in [Li (2014)][pub-rb2] and [Li (2024)][pub-rb3].
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/ropebwt3"/>
@@ -81,10 +85,14 @@ Most of our tools work years after their initial publications and are often well
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bwa"/>
   <a href="https://bioconda.github.io/recipes/bwa/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bwa.svg?style=flag&label=Bioconda"/></a>
 
+[sw-longdust]: https://github.com/lh3/longdust
+[pub-longdust]: https://arxiv.org/abs/2509.07357
 [sw-colorsv]: https://github.com/mktle/colorSV
-[pub-colorsv]: https://www.biorxiv.org/content/10.1101/2024.07.29.605160v1
+[pub-colorsv]: https://pubmed.ncbi.nlm.nih.gov/40973068/
 [sw-minisplice]: https://github.com/lh3/minisplice
+[pub-minisplice]: https://doi.org/10.48550/arXiv.2506.12986
 [sw-myloasm]: https://github.com/bluenote-1577/myloasm
+[pub-myloasm]: https://www.biorxiv.org/content/10.1101/2025.09.05.674543v1
 [sw-longcallD]: https://github.com/yangao07/longcallD
 [sw-longcallR]: https://github.com/huangnengCSU/longcallR
 [pub-longcallR]: https://www.biorxiv.org/content/10.1101/2025.05.26.656191v1
