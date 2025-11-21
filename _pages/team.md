@@ -75,9 +75,9 @@ permalink: /team/
 # Past Members
 
 * [Haoyang Hu](https://www.linkedin.com/in/haoyang-h-0980b1226/) (2025). Research associate &#8594; PhD student at University of Chicago
-* [Siying (Avon) Yang](https://www.linkedin.com/in/avon-yang-347096291/) (2024-2025). DBMI master student &#8594; Incoming PhD student to Harvard
-* [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2025). Research scientist &#8594; Research scientist at [BWH](https://www.brighamandwomens.org/) &#8594; incoming Assistant professor at [WHU](https://en.whu.edu.cn), China
-* [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD candidate in Harvard BIG
+* [Siying (Avon) Yang](https://www.linkedin.com/in/avon-yang-347096291/) (2024-2025). DBMI master student &#8594; PhD student in Harvard
+* [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2025). Research scientist &#8594; Research scientist at [BWH](https://www.brighamandwomens.org/) &#8594; Incoming Assistant professor it [WHU](https://en.whu.edu.cn), China
+* [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD student in Harvard BIG
 * [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale
 * [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc &#8594;&#8594; Principal bioinformatics software engineer at Roche
@@ -89,4 +89,4 @@ permalink: /team/
 * [Li Song](https://www.linkedin.com/in/li-song-81201329) (2021-2022). Postdoc &#8594; Assistant professor in Dartmouth College
 * [Haowen Zhang](https://zhanghaowen.com/) (2019-2022). Intern PhD student in GaTech &#8594; collaborator &#8594; Software engineer at Google
 * Yaxin Yang (2021). Visiting undergraduate student in University of Rochester &#8594; PhD candidate in UIUC
-* [Jiazhen (Jojo) Rong](https://www.linkedin.com/in/jiazhen-jojo-rong-3ab8b610b/) (2019-2021). DBMI master student &#8594; PhD candidate in UPenn
+* [Jiazhen (Jojo) Rong](https://www.linkedin.com/in/jiazhen-jojo-rong-3ab8b610b/) (2019-2021). DBMI master student &#8594; PhD student in UPenn
