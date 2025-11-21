@@ -67,9 +67,10 @@
 
 - name: Jingqing (Jason) Hu
   photo: default.png
-  info: HMS master student, started Feb 2024
+  info: Research associate, started Feb 2024
   number_educ: 1
-  education1: BSc, Boston College, US
+  education1: Master, Harvard Medical School, US
+  education2: BSc, Boston College, US
 
 #- name: Xiaowen Feng
 #  photo: default.png
