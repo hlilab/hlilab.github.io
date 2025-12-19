@@ -1,3 +1,11 @@
+- title: "Challenges in structural variant calling in low-complexity regions"
+  authors: <b>Qian Qin</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2025
+  url: https://pubmed.ncbi.nlm.nih.gov/41384802/
+  display: <i>Gigascience</i>, giaf154
+  pmid: 41384802
+  type: 1
+
 - title: "Long-read reconstruction of many diverse haplotypes with devider"
   authors: Shaw J<sup>&#8224;</sup>, Boucher C, Yu YW, Noyes N, <b>Li H</b>
   year: 2025
