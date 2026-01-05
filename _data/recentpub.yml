@@ -1,3 +1,11 @@
+- title: "Improving spliced alignment by modeling splice sites with deep learning"
+  authors: <b>Siying Yang</b>, <b>Neng Huang</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/41484786/
+  display: <i>Algorithms Mol Biol</i>
+  pmid: 41484786
+  type: 1
+
 - title: "Challenges in structural variant calling in low-complexity regions"
   authors: <b>Qian Qin</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2025
