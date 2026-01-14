@@ -36,9 +36,9 @@ language such as C/C++/Rust may be a plus depending on the projects.
 
 ### Postdoc on algorithm development
 
-We are looking for a postdoctoral fellow who is interested in developing
-high-performance algorithms for sequence alignment, pangenome representation,
-application of pangenome data structures or other projects the applicant may
-propose. A qualified candidate is expected to be proficient in a
-high-performance language such as C, C++ or Rust, and have rich research
-experiences in bioinformatics and computational genomics.
+We are looking for a postdoctoral fellow to develop high-performance algorithms
+for sequence alignment, pangenome representation, application of pangenome data
+structures, or other projects the applicant may propose. A qualified candidate
+is expected to be proficient in a high-performance language such as C, C++ or
+Rust, and have rich research experiences in bioinformatics and computational
+genomics.
