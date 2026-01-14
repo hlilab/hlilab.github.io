@@ -25,6 +25,9 @@ Most of our tools work years after their initial publications and are often well
 
 #### Current
 
+* [Breakinator][sw-breakinator]: detecting foldback artifacts in long reads, published in [Heinz et al (2026)][sw-breakinator]
+  <img style="margin: 0px" src="https://img.shields.io/github/stars/jheinz27/breakinator"/>
+  <a href="https://bioconda.github.io/recipes/breakinator/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/breakinator.svg?style=flag&label=Bioconda"/></a>
 * [myloasm][sw-myloasm]: metagenome assembler for PacBio HiFi and Nanopore R10 reads, preprinted in [Shaw et al (2025)][pub-myloasm]
   <img style="margin: 0px" src="https://img.shields.io/github/stars/bluenote-1577/myloasm"/>
   <a href="https://bioconda.github.io/recipes/myloasm/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/myloasm.svg?style=flag&label=Bioconda"/></a>
@@ -85,6 +88,8 @@ Most of our tools work years after their initial publications and are often well
   <img style="margin: 0px" src="https://img.shields.io/github/stars/lh3/bwa"/>
   <a href="https://bioconda.github.io/recipes/bwa/README.html"><img style="margin: 0px" src="https://img.shields.io/conda/dn/bioconda/bwa.svg?style=flag&label=Bioconda"/></a>
 
+[sw-breakinator]: https://github.com/jheinz27/breakinator
+[pub-breakinator]: https://pubmed.ncbi.nlm.nih.gov/41495659/
 [sw-longdust]: https://github.com/lh3/longdust
 [pub-longdust]: https://arxiv.org/abs/2509.07357
 [sw-colorsv]: https://github.com/mktle/colorSV
@@ -270,31 +275,20 @@ Most of our tools work years after their initial publications and are often well
 
 #### Updated resources since publication
 
-* <a href="https://zenodo.org/records/13948741"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.13948741.svg"/></a>
-  ropebwt3 index for human, initially published in [Li (2024)][pub-rb3].
-* <a href="https://zenodo.org/records/11533210"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11533210.svg"/></a>
-  ropebwt3 index for bacteria
-* <a href="https://zenodo.org/records/8118576"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.8118576.svg"/></a>
-  pangene graphs, initially published in [Li et al (2024)][pub-pangene].
-* <a href="https://zenodo.org/records/6286521"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.6286521.svg"/></a>
-  minigraph graphs, initially published in [Li et al (2020)][pub-minigraph].
-* <a href="https://zenodo.org/records/8372991"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.8372991.svg"/></a>
-  Immuannot annotations, initially published in [Zhou et al (2024)][pub-immuannot].
+* [Ropebwt3 index for human](https://zenodo.org/records/13948741), initially published in [Li (2024)][pub-rb3]. Also available [at AWS](https://openhgl.s3.us-east-1.amazonaws.com/index.html).
+* [Ropebwt3 index for bacteria](https://zenodo.org/records/11533210)
+* [Pangene graphs](https://zenodo.org/records/8118576), initially published in [Li et al (2024)][pub-pangene].
+* [Minigraph graphs](https://zenodo.org/records/6286521), initially published in [Li et al (2020)][pub-minigraph].
+* [Immuannot annotations](https://zenodo.org/records/8372991), initially published in [Zhou et al (2024)][pub-immuannot].
+* [Easy genomic regions](https://zenodo.org/records/14903542) for short-read variant calling, published in [Li (2025)][pub-easy].
+* [Pantree VCFs](https://zenodo.org/records/15374896) generated from HPRC graphs, preprinted in [Salehi Nowbandegani et al (2025)][pub-pantree].
 
 #### Unpublished resources
 
-* <a href="https://zenodo.org/records/10903864"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.10903864.svg"/></a>
-  notable genomic regions in T2T-CHM13 and GRCh38
-* <a href="https://zenodo.org/records/5731012"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.5731012.svg"/></a>
-  portable binaries for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
-* <a href="https://zenodo.org/records/15374896"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.15374896.svg"/></a>
-  pantree VCFs generated from HPRC graphs
-* <a href="https://zenodo.org/records/8045373"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.8045373.svg"/></a>
-  human reference genome analysis sets including BWA and Bowtie2 indices.
-* <a href="https://zenodo.org/records/14903542"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.14903542.svg"/></a>
-  easy genomic regions for short-read variant calling
-* <a href="https://zenodo.org/records/5150756"><img style="margin: 0px" src="https://zenodo.org/badge/DOI/10.5281/zenodo.5150756.svg"/></a>
-  haplotype-resolved PGP1 assembly
+* [Notable genomic regions](https://zenodo.org/records/10903864) in T2T-CHM13 and GRCh38.
+* [Portable binaries](https://zenodo.org/records/5731012) for samtools v1.14 and for GCC v10.3.0 on CentOS 7.
+* [Human reference genome analysis sets](https://zenodo.org/records/8045373) including BWA and Bowtie2 indices.
+* [Haplotype-resolved PGP1 assembly](https://zenodo.org/records/5150756)
 
 #### Graveyard
 
@@ -311,3 +305,5 @@ Most of our tools work years after their initial publications and are often well
 [pub-treefam2]: https://pubmed.ncbi.nlm.nih.gov/18056084/
 [pub-thesis]: https://github.com/lh3/thesis
 [sw-treebest]: https://github.com/Ensembl/treebest
+[pub-easy]: https://pubmed.ncbi.nlm.nih.gov/40905373/
+[pub-pantree]: https://www.biorxiv.org/content/10.1101/2025.08.04.668502v1
