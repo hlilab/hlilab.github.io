@@ -1,5 +1,13 @@
+- title: "Detecting foldback artifacts in long-reads"
+  authors: <b>Heinz JM</b>, Meyerson M, <b>Li H</b><sup>&#8224;</sup>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/41495659/
+  display: <i>BMC Genomics</i>
+  pmid: 41495659
+  type: 1
+
 - title: "Improving spliced alignment by modeling splice sites with deep learning"
-  authors: <b>Siying Yang</b>, <b>Neng Huang</b>, <b>Li H</b><sup>&#8224;</sup>
+  authors: <b>Yang S</b>, <b>Huang N</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2026
   url: https://pubmed.ncbi.nlm.nih.gov/41484786/
   display: <i>Algorithms Mol Biol</i>
@@ -7,7 +15,7 @@
   type: 1
 
 - title: "Challenges in structural variant calling in low-complexity regions"
-  authors: <b>Qian Qin</b>, <b>Li H</b><sup>&#8224;</sup>
+  authors: <b>Qin Q</b>, <b>Li H</b><sup>&#8224;</sup>
   year: 2025
   url: https://pubmed.ncbi.nlm.nih.gov/41384802/
   display: <i>Gigascience</i>, giaf154
