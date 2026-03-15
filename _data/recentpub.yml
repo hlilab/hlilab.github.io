@@ -1,5 +1,13 @@
+- title: Finding low-complexity DNA sequences with longdust
+  authors: <b>Li H</b><sup>&#8224;</sup> & <b>Brian Li</b>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/41826798/
+  display: <i>Bioinformatics</i>
+  pmid: 41826798
+  type: 1
+
 - title: "Efficient near-telomere-to-telomere assembly of nanopore simplex reads"
-  authors: Cheng H<sup>&#8224;</sup>, Qu H, McKenzie S, Lawrence KR., Windsor R, Vella M, Park PJ, & <b>Li, H</b><sup>&#8224;</sup>
+  authors: Cheng H<sup>&#8224;</sup>, Qu H, McKenzie S, Lawrence KR., Windsor R, Vella M, Park PJ, & <b>Li H</b><sup>&#8224;</sup>
   year: 2026
   url: https://pubmed.ncbi.nlm.nih.gov/41639459/
   display: <i>Nature</i>

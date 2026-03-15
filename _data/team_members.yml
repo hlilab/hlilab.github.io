@@ -15,13 +15,6 @@
   education1: Postdoc with <a href="https://research.fredhutch.org/kooperberg/en/team-members.html">Charles Kooperberg</a> at <a href="https://www.fredhutch.org/en.html">Fred Hutch</a>, US
   education2: Postdoc with <a href="https://sites.uw.edu/sguy/">Sharon Browning</a>, <a href="https://www.washington.edu">UW</a>, US
 
-- name: Yan Gao
-  photo: default.png
-  info: Staff scientist, joined July 2024
-  number_educ: 2
-  education1: Postdoc & scientist with <a href="https://xinglab.org/people/yi-xing/">Yi Xing</a>, UPenn, US
-  education2: PhD with <a href="https://scholar.google.com/citations?user=uqKkZiQAAAAJ&hl=en">Yadong Wang</a>, <a href="http://en.hit.edu.cn/">HIT</a>, China
-
 - name: Neng Huang
   photo: default.png
   info: Postdoc, started March 2023
@@ -52,6 +45,20 @@
   number_educ: 1
   education1: BSc/MSc with <a href="https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/4263-narasimhan-vagheesh?Itemid=1224">Vagheesh Narasimhan</a>, UT Austin, US
 
+- name: Jingqing (Jason) Hu
+  photo: default.png
+  info: Research assistant, started Feb 2024
+  number_educ: 2
+  education1: Master, Harvard Medical School, US
+  education2: BSc, Boston College, US
+
+#- name: Yan Gao
+#  photo: default.png
+#  info: Staff scientist, joined July 2024
+#  number_educ: 2
+#  education1: Postdoc & scientist with <a href="https://xinglab.org/people/yi-xing/">Yi Xing</a>, UPenn, US
+#  education2: PhD with <a href="https://scholar.google.com/citations?user=uqKkZiQAAAAJ&hl=en">Yadong Wang</a>, <a href="http://en.hit.edu.cn/">HIT</a>, China
+
 #- name: Yujie Guo
 #  photo: default.png
 #  info: Research associate, joined Jan 2022
@@ -64,13 +71,6 @@
 #  info: HMS master student, started Jan 2024
 #  number_educ: 1
 #  education1: BSc, UCSD, US
-
-- name: Jingqing (Jason) Hu
-  photo: default.png
-  info: Research associate, started Feb 2024
-  number_educ: 2
-  education1: Master, Harvard Medical School, US
-  education2: BSc, Boston College, US
 
 #- name: Xiaowen Feng
 #  photo: default.png
