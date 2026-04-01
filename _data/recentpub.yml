@@ -1,3 +1,11 @@
+- title: SNP calling, haplotype phasing and allele-specific analysis with long RNA-seq reads
+  authors: <b>Huang N</b>, HPRC, <b>Li H</b><sup>&#8224;</sup>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/41912802/
+  display: <i>Nat Methods</i>
+  pmid: 41912802
+  type: 1
+
 - title: High-resolution metagenome assembly for modern long reads with myloasm
   authors: <b>Shaw J</b><sup>&#8224;</sup>, <b>Marin GM</b> & <b>Li H</b><sup>&#8224;</sup>
   year: 2026
