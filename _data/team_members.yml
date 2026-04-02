@@ -19,7 +19,7 @@
   photo: default.png
   info: Staff scientist, joined March 2026
   number_educ: 1
-  education1: Postdoc/PhD with <a href="https://www.cs.ucf.edu/~shzhang/">Shaojie Zhang</a> at <a href="https://www.ucf.edu/">UCF</a>, US
+  education1: Postdoc &amp; PhD with <a href="https://www.cs.ucf.edu/~shzhang/">Shaojie Zhang</a> at <a href="https://www.ucf.edu/">UCF</a>, US
 
 - name: Neng Huang
   photo: default.png
