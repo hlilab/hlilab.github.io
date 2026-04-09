@@ -32,7 +32,6 @@ strong background in biology, computer science or mathematics and have past
 research experiences in bioinformatics and computational biology. The applicant
 should be proficient in programming. Familarity with a high-performance
 language such as C/C++/Rust may be a plus depending on the projects.
--->
 
 ### Postdoc on algorithm development
 
@@ -42,3 +41,4 @@ structures, or other projects the applicant may propose. A qualified candidate
 is expected to be proficient in a high-performance language such as C, C++ or
 Rust, and have rich research experiences in bioinformatics and computational
 genomics.
+-->
