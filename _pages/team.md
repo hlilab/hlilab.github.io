@@ -74,10 +74,10 @@ permalink: /team/
 
 # Past Members
 
+* [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2026). Staff scientist &#8594; Collaborator/scientist at [BWH](https://www.brighamandwomens.org/) &#8594; Assistant professor in [WHU](https://en.whu.edu.cn), China
 * [Yan Gao](https://www.linkedin.com/in/yan-gao-69a52812a/) (2024-2026). Staff scientist &#8594; Assistant professor in [HIT](https://en.hit.edu.cn/), China
 * [Haoyang Hu](https://www.linkedin.com/in/haoyang-h-0980b1226/) (2025). Research associate &#8594; PhD student at University of Chicago
 * [Siying (Avon) Yang](https://www.linkedin.com/in/avon-yang-347096291/) (2024-2025). DBMI master student &#8594; PhD student in Harvard
-* [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2025). Staff scientist &#8594; Research scientist at [BWH](https://www.brighamandwomens.org/) &#8594; Incoming assistant professor in [WHU](https://en.whu.edu.cn), China
 * [Yujie Guo](https://www.linkedin.com/in/yujie-guo-9949841a2/) (2022-2024). DBMI master student &#8594; PhD student in Harvard BIG
 * [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale
 * [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
