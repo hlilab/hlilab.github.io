@@ -1,3 +1,11 @@
+- title: "FuFiHLA: a tool for full-field HLA typing from long-read data"
+  authors: <b>Hu J</b>, <b>Qin Q</b>, <b>Li H</b><sup>&#8224;</sup> & <b>Zhou Y</b><sup>&#8224;</sup>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/42085485/
+  display: <i>Bioinformatics</i>
+  pmid: 42085485
+  type: 1
+
 - title: SNP calling, haplotype phasing and allele-specific analysis with long RNA-seq reads
   authors: <b>Huang N</b>, HPRC, <b>Li H</b><sup>&#8224;</sup>
   year: 2026
@@ -15,7 +23,7 @@
   type: 1
 
 - title: Finding low-complexity DNA sequences with longdust
-  authors: <b>Li H</b><sup>&#8224;</sup> & <b>Brian Li</b>
+  authors: <b>Li H</b><sup>&#8224;</sup> & <b>Li B</b>
   year: 2026
   url: https://pubmed.ncbi.nlm.nih.gov/41826798/
   display: <i>Bioinformatics</i>
