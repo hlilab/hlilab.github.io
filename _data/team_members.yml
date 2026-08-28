@@ -58,6 +58,24 @@
   education1: Master, Harvard Medical School, US
   education2: BSc, Boston College, US
 
+- name: Qiaohan Xu
+  photo: default.png
+  info: DBMI master student, started Oct 2025
+  number_educ: 1
+  education1: BSc, Reed College, US
+
+- name: Xinyi (Cindy) Ren
+  photo: default.png
+  info: DBMI master student, started Oct 2025
+  number_educ: 1
+  education1: BSc/MSc, JHU, US
+
+- name: Zhaogu (Andy) Sun
+  photo: default.png
+  info: DBMI master student, started Oct 2025
+  number_educ: 1
+  education1: BSc, UCSD, US
+
 #- name: Yan Gao
 #  photo: default.png
 #  info: Staff scientist, joined July 2024
