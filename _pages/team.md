@@ -76,8 +76,8 @@ permalink: /team/
 
 ### Postdocs and staff scientists
 
-* [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2026). Staff scientist &#8594; Collaborator/scientist at [BWH](https://www.brighamandwomens.org/) &#8594; Assistant professor in [WHU](https://en.whu.edu.cn), China
-* [Yan Gao](https://www.linkedin.com/in/yan-gao-69a52812a/) (2024-2026). Staff scientist &#8594; Assistant professor in [HIT](https://en.hit.edu.cn/), China
+* [Qian (Alvin) Qin](https://www.linkedin.com/in/qinqian/) (2024-2026). Staff scientist &#8594; Collaborator/scientist at [BWH](https://www.brighamandwomens.org/) &#8594; Professor in [WHU](https://en.whu.edu.cn), China
+* [Yan Gao](https://www.linkedin.com/in/yan-gao-69a52812a/) (2024-2026). Staff scientist &#8594; Professor in [HIT](https://en.hit.edu.cn/), China
 * [Haoyu Cheng](https://medicine.yale.edu/biomedical-informatics-data-science/profile/haoyu-cheng/) (2019-2024). Postdoc &#8594; Assistant professor in Yale
 * [Xiaowen Feng](https://www.linkedin.com/in/fca16af3/) (2019-2024). Postdoc &#8594; Oxford Nanopore NY
 * [Justin Chu](https://www.linkedin.com/in/justin-chu-84685652/) (2020-2024). Postdoc &#8594;&#8594; Principal bioinformatics software engineer at Roche
