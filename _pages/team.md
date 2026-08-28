@@ -99,6 +99,3 @@ permalink: /team/
 * [Daniel Liu](https://liudaniel.com/) (2023). Intern undergraduate student in UCLA &#8594;&#8594; [Anthropic](https://www.anthropic.com/)
 * [Alberto Zeni](https://www.linkedin.com/in/alberto-zeni/) (2023). Visiting student &#8594; collaborator &#8594; AMD
 * [Haowen Zhang](https://zhanghaowen.com/) (2019-2022). Intern PhD student in GaTech &#8594; collaborator &#8594; Software engineer at Google
-<!--
-* Yaxin Yang (2021). Visiting undergraduate student in University of Rochester &#8594; PhD candidate in UIUC
--->
