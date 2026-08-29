@@ -51,6 +51,12 @@
   number_educ: 1
   education1: BSc/MSc with <a href="https://integrativebio.utexas.edu/component/cobalt/item/7-integrative-biology/4263-narasimhan-vagheesh?Itemid=1224">Vagheesh Narasimhan</a>, UT Austin, US
 
+- name: Ellie Kim
+  photo: default.png
+  info: PhD student, joined July 2026
+  number_educ: 1
+  education1: BSc, UT Auxtin, US
+
 - name: Jingqing (Jason) Hu
   photo: default.png
   info: Research assistant, started Feb 2024
