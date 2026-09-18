@@ -1,3 +1,19 @@
+- title: "Improving long-read somatic structural variant calling with pangenome and de novo personal genome assembly"
+  authors: <b>Qin Q</b>, <b>Heinz JM</b>, <b>Li H</b><sup>&#8224;</sup>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/42696744/
+  display: <i>Cancer Res Commun</i>
+  pmid: 42696744
+  type: 1
+
+- title: "Defining and cataloging variants in pangenome graphs"
+  authors: Salehi Nowbandegani P<sup>&#8224;</sup>, Zhang S, Hu H, <b>Li H</b><sup>&#8224;</sup>, O'Connor LJ<sup>&#8224;</sup>
+  year: 2026
+  url: https://pubmed.ncbi.nlm.nih.gov/42607688/
+  display: <i>Cell Genom</i>
+  pmid: 42607688
+  type: 1
+
 - title: "FuFiHLA: a tool for full-field HLA typing from long-read data"
   authors: <b>Hu J</b>, <b>Qin Q</b>, <b>Li H</b><sup>&#8224;</sup> & <b>Zhou Y</b><sup>&#8224;</sup>
   year: 2026
